@@ -6,13 +6,16 @@ SAIDA = os.path.join(RAIZ, "dados", "precos_diarios.csv")
 BASE = "https://www.kabum.com.br/hardware/placa-de-video-vga"
 PAGINAS = 5
 PAUSA = 4
+TENTATIVAS = 4
+ESPERAS = [15, 60, 180]
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                    "(KHTML, like Gecko) Chrome/140.0 Safari/537.36"}
+                    "(KHTML, like Gecko) Chrome/140.0 Safari/537.36",
+      "Accept-Language": "pt-BR,pt;q=0.9"}
 CAMPOS = ["data", "codigo", "nome", "fabricante", "preco", "preco_desconto",
           "preco_antigo", "disponivel", "vendedor"]
 
 
-def pagina(n):
+def baixa(n):
     url = BASE if n == 1 else f"{BASE}?page_number={n}&page_size=60"
     req = urllib.request.Request(url, headers=UA)
     html = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
@@ -23,15 +26,37 @@ def pagina(n):
     return interno["catalogServer"]["data"]
 
 
+def pagina(n):
+    for tentativa in range(1, TENTATIVAS + 1):
+        try:
+            return baixa(n)
+        except Exception as e:
+            if tentativa == TENTATIVAS:
+                print(f"pagina {n}: falhou ({e})", file=sys.stderr)
+                return None
+            espera = ESPERAS[tentativa - 1]
+            print(f"pagina {n}: {e} - nova tentativa em {espera}s", file=sys.stderr)
+            time.sleep(espera)
+
+
+def ja_coletado(hoje):
+    if not os.path.exists(SAIDA):
+        return False
+    with open(SAIDA, encoding="utf-8") as f:
+        return any(linha["data"] == hoje for linha in csv.DictReader(f))
+
+
 def main():
     hoje = datetime.date.today().isoformat()
+    if ja_coletado(hoje):
+        print(f"{hoje}: ja coletado, nada a fazer")
+        return
+
     linhas, vistos = [], set()
     for n in range(1, PAGINAS + 1):
-        try:
-            produtos = pagina(n)
-        except Exception as e:
-            print(f"pagina {n}: falhou ({e})", file=sys.stderr)
-            break
+        produtos = pagina(n)
+        if produtos is None:
+            continue
         if not produtos:
             break
         for p in produtos:
