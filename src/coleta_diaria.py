@@ -4,7 +4,7 @@ import csv, json, os, re, sys, time, datetime, urllib.request
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAIDA = os.path.join(RAIZ, "dados", "precos_diarios.csv")
 BASE = "https://www.kabum.com.br/hardware/placa-de-video-vga"
-PAGINAS = 5
+PAGINAS = 8
 PAUSA = 4
 TENTATIVAS = 4
 ESPERAS = [15, 60, 180]
