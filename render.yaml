@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: ipca-placas-api
+    name: ipca-placas-de-video
     runtime: python
     plan: free
-    region: oregon
+    region: virginia
     branch: main
     buildCommand: pip install -r requirements-api.txt
     startCommand: uvicorn src.api:app --host 0.0.0.0 --port $PORT

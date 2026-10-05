@@ -9,7 +9,8 @@ nem de variável secreta.
 2. No painel: **New → Web Service → Build and deploy from a Git repository**.
 3. Autorizar o Render a ler o repositório `Dhstefanoski/ipca-placas-de-video`. Como ele é
    privado, o Render pede permissão explícita; pode liberar só esse repositório.
-4. O Render lê o `render.yaml` e preenche sozinho:
+4. No formulário, preencher assim (o fluxo manual **não** lê o `render.yaml`; ele só vale se
+   você criar o serviço por **Blueprint**):
 
    | Campo | Valor |
    |---|---|
@@ -17,6 +18,10 @@ nem de variável secreta.
    | Build command | `pip install -r requirements-api.txt` |
    | Start command | `uvicorn src.api:app --host 0.0.0.0 --port $PORT` |
    | Plan | Free |
+   | Root Directory | deixar vazio |
+   | Region | Virginia (US East) |
+
+   E adicionar a variável de ambiente `PYTHON_VERSION` = `3.12.10`.
 
 5. Clicar em **Create Web Service**. A primeira publicação leva uns 3 a 5 minutos.
 6. A API fica em `https://ipca-placas-api.onrender.com` (o nome pode mudar se já estiver em uso).
