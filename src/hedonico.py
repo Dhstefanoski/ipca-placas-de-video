@@ -9,15 +9,19 @@ def cam(*p): return os.path.join(RAIZ, *p)
 
 
 def atributos(nome):
-    n = nome.upper().replace("GEFORCE", " ").replace("RADEON", " ")
+    bruto = nome.upper()
+    n = bruto.replace("GEFORCE", " ").replace("RADEON", " ")
     n = re.sub(r"\s+", " ", n)
 
     marca = linha = numero = sufixo = None
-    m = re.search(r"\b(RTX|GTX|GT)\s?-?(\d{3,4})\s?(TI|SUPER)?\b", n)
+    m = re.search(r"\b(RTX|GTX|GT)\s?-?(\d{3,4})\s?(TI|SUPER|S)?\b", n)
     if m:
         marca, linha, numero, sufixo = "NVIDIA", m.group(1), int(m.group(2)), m.group(3)
+        if sufixo == "S":
+            sufixo = "SUPER"
     else:
-        m = re.search(r"\bRX\s?-?(\d{3,4})\s?(XTX|XT|GRE)?\b", n)
+        m = (re.search(r"\bRX\s?-?(\d{3,4})\s?(XTX|XT|GRE)?\b", n)
+             or re.search(r"\bRADEON\s?-?(\d{4})\s?(XTX|XT|GRE)?\b", bruto))
         if m:
             marca, linha, numero, sufixo = "AMD", "RX", int(m.group(1)), m.group(2)
         else:
