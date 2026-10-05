@@ -71,8 +71,14 @@ def variacao(t, ip, base=BASE, fim=FIM):
     return out
 
 
-def rodada(com_variantes=False, so_kabum=False, filtrar=True, base=BASE):
+LEGADOS = {"RX 550", "RX 560", "RX 570", "RX 580", "RX 590", "RX 5600", "GTX 750", "GTX 1050",
+           "GTX 1060", "GTX 1650", "GTX 1660", "RTX 2060", "RTX 2070"}
+
+
+def rodada(com_variantes=False, so_kabum=False, filtrar=True, base=BASE, sem_legado=False):
     a = carrega(com_variantes, so_kabum)
+    if sem_legado:
+        a = a[~a["chip"].isin(LEGADOS)]
     removidos = None
     if filtrar:
         a, removidos = tira_fora_do_padrao(a)
@@ -174,6 +180,7 @@ def main():
         ("Sem remover fora do padrão", dict(filtrar=False)),
         ("Só vendedor Kabum", dict(so_kabum=True)),
         ("Base 2022 em vez de 2023", dict(base="2022")),
+        ("Sem placas de geracoes antigas", dict(sem_legado=True)),
     ]
     linhas = []
     for nome, kw in variantes:

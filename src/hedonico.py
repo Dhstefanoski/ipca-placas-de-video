@@ -8,8 +8,13 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def cam(*p): return os.path.join(RAIZ, *p)
 
 
+PROFISSIONAIS = re.compile(r"\bQUADRO\b|\bRTX\s?PRO\b|\bRTX\s?A\d{3,4}\b|\bTESLA\b")
+
+
 def atributos(nome):
     bruto = nome.upper()
+    if PROFISSIONAIS.search(bruto):
+        return None
     n = bruto.replace("GEFORCE", " ").replace("RADEON", " ")
     n = re.sub(r"\s+", " ", n)
 
@@ -56,8 +61,25 @@ def atributos(nome):
     return {"marca": marca, "chip": chip, "faixa": faixa, "vram": vram}
 
 
+def junta_fontes():
+    acervo = pd.read_csv(cam("dados", "precos_acervo.csv"))
+    acervo["fonte"] = "acervo"
+
+    diario = pd.read_csv(cam("dados", "precos_diarios.csv"))
+    diario["mes"] = diario["data"].str[:7]
+    diario = (diario.sort_values("data")
+                    .groupby(["codigo", "mes"], as_index=False)
+                    .agg(data=("data", "last"), nome=("nome", "last"),
+                         fabricante=("fabricante", "last"), preco=("preco", "median"),
+                         vendedor=("vendedor", "last")))
+    diario["fonte"] = "diario"
+
+    comuns = [c for c in acervo.columns if c in diario.columns and c != "fonte"]
+    return pd.concat([acervo[comuns + ["fonte"]], diario[comuns + ["fonte"]]], ignore_index=True)
+
+
 def prepara():
-    df = pd.read_csv(cam("dados", "precos_acervo.csv"))
+    df = junta_fontes()
     n0 = len(df)
     df = df[(df.preco >= 200) & (df.preco <= 60000)].copy()
     attrs = df["nome"].apply(atributos)
