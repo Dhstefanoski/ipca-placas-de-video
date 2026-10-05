@@ -2,6 +2,7 @@
 import os
 import pandas as pd
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import RedirectResponse
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def cam(*p): return os.path.join(RAIZ, *p)
@@ -25,6 +26,11 @@ def _produtos():
 
 def _limpo(df):
     return df.astype(object).where(pd.notna(df), None).to_dict(orient="records")
+
+
+@app.get("/", include_in_schema=False)
+def raiz():
+    return RedirectResponse("/docs")
 
 
 @app.get("/indices")

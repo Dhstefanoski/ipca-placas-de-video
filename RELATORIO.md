@@ -172,7 +172,6 @@ Gráficos: `figuras/indices_periodo_completo.png` e `figuras/indices_desde_2023.
 - **Modelo de previsão de preço.** Precisa de uns 90 dias de coleta diária. O coletor existe
   (`src/coleta_diaria.py`) e o agendamento está pronto (`.github/workflows/coleta_diaria.yml`),
   mas só roda sozinho com o projeto no GitHub.
-- **API publicada.** A API existe e funciona localmente, mas não está na internet.
 - **Teste de classificação alternativa.** Classificar as placas por outro critério, para
   confirmar que o resultado não depende da regra de faixa adotada.
 
@@ -189,7 +188,7 @@ python src/medianas.py           # MÉTODO PRINCIPAL: mediana por faixa, sensibi
 python src/graficos.py           # gráficos da regressão
 python src/coleta_diaria.py      # coleta do dia; agendar diariamente
 
-uvicorn src.api:app --reload     # API em http://127.0.0.1:8000/docs
+uvicorn src.api:app --reload     # API local; publicada em ipca-placas-de-video.onrender.com/docs
 ```
 
 ---
