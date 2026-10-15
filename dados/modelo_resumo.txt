@@ -5,7 +5,7 @@ Dep. Variable:              log_preco   R-squared:                       0.959
 Model:                            OLS   Adj. R-squared:                  0.957
 Method:                 Least Squares   F-statistic:                 3.023e+04
 Date:                Thu, 15 Oct 2026   Prob (F-statistic):               0.00
-Time:                        20:03:47   Log-Likelihood:                 1341.2
+Time:                        23:10:33   Log-Likelihood:                 1341.2
 No. Observations:                2892   AIC:                            -2432.
 Df Residuals:                    2767   BIC:                            -1686.
 Df Model:                         124                                         
@@ -155,7 +155,7 @@ Dep. Variable:              log_preco   R-squared:                       0.917
 Model:                            OLS   Adj. R-squared:                  0.914
 Method:                 Least Squares   F-statistic:                     3628.
 Date:                Thu, 15 Oct 2026   Prob (F-statistic):               0.00
-Time:                        20:03:47   Log-Likelihood:                 320.42
+Time:                        23:10:33   Log-Likelihood:                 320.42
 No. Observations:                2904   AIC:                            -482.8
 Df Residuals:                    2825   BIC:                            -10.92
 Df Model:                          78                                         
