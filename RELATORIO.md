@@ -158,8 +158,8 @@ Gráficos: `figuras/indices_periodo_completo.png` e `figuras/indices_desde_2023.
   entrada: o +92,5% da xx50 é artefato de composição, porque em 2023 ela tinha 23 anúncios, 17
   deles de placas antigas e baratas. Tirando as antigas a xx60 vai a +27,8%, e a xx50 fica com
   apenas 5 preços em 2023. **O número da xx50 não deve ser usado.**
-- **A análise usa o preço cheio, não o preço com desconto.** Os dois campos são coletados. Com o
-  preço à vista o resultado da xx60 seria +17,7% em vez de +18,9% — a conclusão não muda.
+- **A análise usa o preço de tabela, não o preço à vista.** Os dois campos são coletados, e a
+  variante com preço à vista entra na tabela de sensibilidade. A conclusão não muda.
 - **2022 começa em março** e a comparação com o IPCA vai até agosto de 2026.
 - **Meses sem captura:** não há cópias de fevereiro a maio de 2023.
 - **Produtos esgotados não aparecem.** O histórico só guarda placas disponíveis. Não dá para

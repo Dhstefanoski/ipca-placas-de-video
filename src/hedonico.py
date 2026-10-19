@@ -71,6 +71,7 @@ def junta_fontes():
                     .groupby(["codigo", "mes"], as_index=False)
                     .agg(data=("data", "last"), nome=("nome", "last"),
                          fabricante=("fabricante", "last"), preco=("preco", "median"),
+                         preco_desconto=("preco_desconto", "median"),
                          vendedor=("vendedor", "last")))
     diario["fonte"] = "diario"
 

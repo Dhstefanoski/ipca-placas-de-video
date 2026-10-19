@@ -14,8 +14,11 @@ BASE, FIM = "2023", "2026"
 MINIMO = 30
 
 
-def carrega(com_variantes=False, so_kabum=False):
+def carrega(com_variantes=False, so_kabum=False, campo="preco"):
     a = pd.read_csv(cam("dados", "produtos_atributos.csv"))
+    if campo != "preco":
+        a = a[a[campo].notna()].copy()
+        a["preco"] = a[campo]
     a["ano"] = a["data"].str[:4]
     a["mes"] = a["data"].str[:7]
     if com_variantes:
@@ -75,8 +78,9 @@ LEGADOS = {"RX 550", "RX 560", "RX 570", "RX 580", "RX 590", "RX 5600", "GTX 750
            "GTX 1060", "GTX 1650", "GTX 1660", "RTX 2060", "RTX 2070"}
 
 
-def rodada(com_variantes=False, so_kabum=False, filtrar=True, base=BASE, sem_legado=False):
-    a = carrega(com_variantes, so_kabum)
+def rodada(com_variantes=False, so_kabum=False, filtrar=True, base=BASE, sem_legado=False,
+           campo="preco"):
+    a = carrega(com_variantes, so_kabum, campo)
     if sem_legado:
         a = a[~a["chip"].isin(LEGADOS)]
     removidos = None
@@ -181,6 +185,7 @@ def main():
         ("Só vendedor Kabum", dict(so_kabum=True)),
         ("Base 2022 em vez de 2023", dict(base="2022")),
         ("Sem placas de geracoes antigas", dict(sem_legado=True)),
+        ("Preco a vista em vez do cheio", dict(campo="preco_desconto")),
     ]
     linhas = []
     for nome, kw in variantes:
