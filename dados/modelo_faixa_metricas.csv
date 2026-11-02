@@ -1,4 +1,4 @@
 modelo,f1_macro_cv,acuracia_teste,f1_macro_teste
-Random Forest,0.932,0.936,0.928
-Regressão logística,0.857,0.837,0.817
-Classe majoritária (linha de base),0.259,0.635,0.259
+Random Forest,0.936,0.921,0.92
+Regressão logística,0.863,0.843,0.823
+Classe majoritária (linha de base),0.256,0.623,0.256
