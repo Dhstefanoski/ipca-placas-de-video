@@ -25956,3 +25956,462 @@ data,codigo,nome,fabricante,preco,preco_desconto,preco_antigo,disponivel,vendedo
 2026-11-12,190108,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super, 6GB GDDR6, 192 Bits, Dual FAN",Gainward,6990,5452.2,0,True,TENDINFO
 2026-11-12,207483,"Placa de Vídeo MSI NVIDIA GeForce GT710, 2GB, 64B, VGA, DVI, HDMI - GT-710-2-GD3-H-LP",MSI,430,387,0,True,BAURUINFO
 2026-11-12,213974,"Placa de Vídeo PNY NVIDIA GeForce Quadro RTX-4000, 8GB DDR6, 256 Bits, DP - VCQRTX4000-PB",Pny,6054.4,5448.96,0,True,SGMAX TECNOLOGIA E COMERCIO
+2026-11-13,459144,"Placa de Vídeo RX 7600 Challenger ASRock AMD Radeon,  8GB GDDR6 - 90-GA41ZZ-00UANF",ASRock,2823.52,2399.99,2823.52,True,KaBuM!
+2026-11-13,907814,"Placa de Vídeo ASRock RX 7600 Challenger PRO OC AMD Radeon, 8GB, GDDR6, Triple Fan - 90-GA62ZZ-00UANF",ASRock,2941.16,2499.99,2941.16,True,KaBuM!
+2026-11-13,692461,"Placa De Vídeo Husky Alpha RX 580, AMD, 8GB, GDDR5, 256-Bit, HDMI, DVI, DisplayPort - HVG580",Husky,1882.34,1599.99,1882.34,True,KaBuM!
+2026-11-13,912220,"Placa de Vídeo Gigabyte RTX 5060 EAGLE MAX OC 8GB NVIDIA GeForce, 8GB GDDR7, 128bit, Triple Fan, Ray Tracing - GV-N5060EAGLEMAX OC-8GD",Gigabyte,4318.4,3670.64,4318.4,True,KaBuM!
+2026-11-13,475651,"Placa de Vídeo RTX 3060 Windforce OC 12G (rev. 2.0) Gigabyte NVIDIA GeForce, 12GB GDDR6, 192bits, Ray Tracing - GV-N3060WF2OC-12GD",Gigabyte,3529.4,2999.99,3529.4,True,KaBuM!
+2026-11-13,507105,"Suporte para GPU Rise Mode, ARGB, 500mm, Aura V2, Branco - RM-SPVG-02-ARGB-W",Rise Mode,57.76,51.98,57.76,True,KaBuM!
+2026-11-13,996572,"Placa De Vídeo Husky Alpha RTX 3060, Nvidia, 12GB, GDDR6, 192-Bit, Dual Fan, HDMI, 3x DisplayPort - HVG023060",Husky,3529.4,2999.99,3529.4,True,KaBuM!
+2026-11-13,694714,"Placa de Vídeo ASRock RX 9070 Challenger AMD Radeon, LED, 16GB, GDDR6, FidelityFX, RDNA - 90-GA5NZZ-00UANF",ASRock,8045.96,6999.99,8045.96,True,KaBuM!
+2026-11-13,714573,"Placa de Vídeo Gigabyte RTX 5070 EAGLE OC SFF 12G NVIDIA GeForce, 12GB GDDR7, 192bits, RGB, DLSS, Ray Tracing - GV-N5070EAGLE OC-12GD",Gigabyte,8638.4,7774.56,0,True,KaBuM!
+2026-11-13,730378,"Placa de Vídeo ASUS DUAL RTX 5060 TI O16G NVIDIA GeForce, 16GB GDDR7, 2602MHz, 128 bits, OpenGL4.6, DLSS 4, Ray Tracing - 90YV0MH0-M0NA00",ASUS,7658.21,6662.64,7658.21,True,KaBuM!
+2026-11-13,988706,Placa de Video Palit GeForce RTX 5060 8GB INFINITY 2 OC GDDR7 128bits - NE75060V19P1-GB2063L,PALIT,3736.07,3250.38,0,True,KaBuM!
+2026-11-13,877565,"Placa de Vídeo MSI RTX 5060 8G VENTUS 2X OC Geforce NVIDIA, 8GB, GDDR7, 128 bits, 2535 MHz, DLSS 4, Ray Tracing - G5060-8V2C",MSI,4705.87,3999.99,4705.87,True,KaBuM!
+2026-11-13,995288,"Placa de Vídeo Husky Alpha RTX 3070, NVIDIA, 8GB, GDDR6, 256-Bit, Dual Fan, HDMI, 3x DisplayPort - HVG3070",Husky,3888.88,3499.99,3888.88,True,KaBuM!
+2026-11-13,1020030,"Placa De Vídeo Husky Alpha RTX 3060 TI, NVIDIA, 8GB, GDDR6, 256-Bit, HDMI, DisplayPort - HVG3060TI",Husky,3448.26,2999.99,3448.26,True,KaBuM!
+2026-11-13,777056,"Placa de Video Inno3D RTX 5060 Twin X2 NVIDIA Geforce, 8GB, 128bits, 2497MHz, FP4 e DLSS 4, Ray Tracing - N50602-08D7-195071N",Inno3d,3759.99,3195.99,3759.99,True,KaBuM!
+2026-11-13,877566,"Placa de Vídeo MSI RTX 5060 8G SHADOW 2X OC Geforce NVIDIA, 8GB GDDR7, 128 bits, 2535 MHz, DLSS 4, Ray Tracing - G5060-8S2C",MSI,4003.52,3402.99,4003.52,True,KaBuM!
+2026-11-13,1078272,"Placa de Vídeo Zotac Gaming RTX 5060 Twin Edge OC NVIDIA GeForce, 8GB GDDR7, 128-bits, Dual Fan, Ray Tracing, DLSS 4 - ZT-B50600H-10A",Zotac,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,907818,"Placa de Vídeo PNY RTX 5060 Ti OC NVIDIA Geforce, 8GB GDDR7, Dual-Fan, Ray Tracing, DLSS 4 - VCG5060T8DFXPB1-O-TF",Pny,4705.87,3999.99,4705.87,True,KaBuM!
+2026-11-13,703109,"Placa de Vídeo Galax GeForce RTX 3050 EX V2, 6GB, GDDR6, 96 Bits - 35NRLDHP9OID",Galax,2011.65,1709.9,2011.65,True,KaBuM!
+2026-11-13,802427,"Placa de Vídeo RTX 5060 Ti EAGLEOC ICE 8G Gigabyte NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N506TEAGLEOC ICE-8GD",Gigabyte,5882.34,4999.99,5882.34,True,KaBuM!
+2026-11-13,989623,"Placa de Video Palit RTX 5070 INFINITY 3 NVIDIA GeForce, 12GB, GDDR7, 192bit 3-DP e HDMI - NE75070019K9-GB2050S",Palit Microsystem,7954.43,6761.27,0,True,KaBuM!
+2026-11-13,777075,"Placa de Vídeo Gigabyte RTX 5060 EAGLE OC 8G NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N5060EAGLE OC-8GD",Gigabyte,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1012613,"Placa De Vídeo MSI RTX 3050 LP OC NVIDIA Geforce, 6GB, GDDR6, 96-Bit, Low Profile - G3050LP6C",MSI,1931.7,1699.9,1931.7,True,KaBuM!
+2026-11-13,802428,"Placa de Vídeo Gigabyte RTX 5060 Ti EAGLE OC 8G NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N506TEAGLE OC-8GD",Gigabyte,5149.07,4531.18,5149.07,True,KaBuM!
+2026-11-13,997881,"Placa de Video MSI GeForce RTX 3050 Ventus OC 2X, 6GB, GDDR6, 96-bit, 912-V812-060",MSI,2272.72,1999.99,0,True,KaBuM!
+2026-11-13,1053619,"Placa de Vídeo Gigabyte RX 9050 GAMING OC 8GB AMD Radeon, 8GB GDDR6, 128bit - GV-R9050GAMING OC-8GD",Gigabyte,3333.32,2999.99,3333.32,True,KaBuM!
+2026-11-13,1078273,Placa de Vídeo Nvidia Zotac RTX 5070 12GB GAMING SOLID OC GDDR7 192BITS ZOTAC ZT-B50700J-10P,Zotac,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,1078258,Placa de Vídeo Nvidia PcYes RTX 4060 GDDR6 8GB 128BITS FULL SIZE DUAL FAN - PVR40608GR6DF2,PCYES,3333.32,2999.99,3333.32,True,KaBuM!
+2026-11-13,776925,"Placa de Vídeo Palit GeForce RTX5060Ti INFINITY 3 NVIDIA GeForce, 16GB GDDR7, 128bit, FP4 e DLSS 4, Ray Tracing - NE7506T019T1-GB2061S",PALIT,7058.81,5999.99,0,True,KaBuM!
+2026-11-13,1078259,Placa de Vídeo Nvidia PcYes RTX 5060 TI 16GB GDDR7 128BITS DUAL FAN PVRTX5060TIB2F16G,PCYES,6222.21,5599.99,6222.21,True,KaBuM!
+2026-11-13,751904,"Placa de Vídeo MSI RTX 5060 Ti 8G GAMING TRIO OC NVIDIA GeForce, 8GB GDDR7, 128-bit, 2662 MHz, FP4 e DLSS 4, Ray Tracing - G506T-8GTC",MSI,5434.78,5000,0,True,KaBuM!
+2026-11-13,714568,"Placa de Vídeo Gigabyte RTX 5070 Ti WINDFORCE OC SFF 16G NVIDIA GeForce, 16GB GDDR7, 256bits, DLSS, Ray Tracing - 9VN507TWO-00-G10",Gigabyte,17777.77,15999.99,17777.77,True,KaBuM!
+2026-11-13,132080,Cabo Extensor PCI Express Rise Mode Riser - RM-EX-PV,Rise Mode,211.76,180,211.76,True,KaBuM!
+2026-11-13,714571,"Placa de Vídeo Gigabyte RTX 5070 GAMING OC 12G NVIDIA GeForce, 12GB GDDR7, 192bits, RGB, DLSS, Ray Tracing - 9VN5070GO-00-G10",Gigabyte,13793.11,12000.01,13793.11,True,KaBuM!
+2026-11-13,894136,"Placa De Vídeo Asus Dual Nvidia Geforce RTX 5060 Ti Oc, 8GB, Gddr7, Dlss, Ray Tracing, Dual-RTX5060ti-o8g",ASUS,3699.99,3699.99,0,True,ZOING BRASIL
+2026-11-13,1053809,"Placa de Vídeo Gainward Ghost RTX 5060 NVIDIA GeForce, 8GB GDDR7, 128-bit - NE75060019P1-GB2063B",Gainward,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,538966,"Placa de video Gpu Rx 550, 4GB, GDDR5, 128 Bits Projeto Edge - Pvex5504gbdf",PCYES,775.42,697.88,775.42,True,HD Store Oficial
+2026-11-13,520492,"Placa de Vídeo RTX 3050 ASUS 6G Dual OC NVIDIA GeForce, 6GB GDDR6, DLSS, Ray Tracing, G-Sync  - 90YV0K60-M0NA00",ASUS,2585.88,2198,2585.88,True,KaBuM!
+2026-11-13,507103,"Suporte de Placa de Vídeo Rise Mode, ARGB, 500mm, Aura V1, Branco - RM-SPVG-01-ARGB-W",Rise Mode,94.11,79.99,94.11,True,KaBuM!
+2026-11-13,954798,"Gpu Msi RTX 5070 Ti 16gb Gaming Trio Oc, Gddr7, 256-bits, 3x Dp / 1x HDMI - G507t-16gtc",MSI,18339.75,18339.75,0,True,VIXE E-COMMERCE
+2026-11-13,1052410,"Placa de Vídeo ASUS RTX 5060 Dual OC NVIDIA GeForce, 8GB GDDR7 - 90YV0PS0-M0NA00",ASUS,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1003353,"Placa De Vídeo PCyes Nvidia Geforce Gtx1660 Super, 6gb Gddr6, 192-bit, Dual Fan, HDMI, Display Port E Dvi - Pvx1660s62f",PCYES,1651.39,1486.25,0,True,HD Store Oficial
+2026-11-13,1078260,"Placa de Vídeo Zotac RTX 5070 NVIDIA Geforce, 12GB 192 BITS GDDR7 TWIN EDGE OC - ZT-B50700H-10A",Zotac,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,1070734,"Placa de Vídeo Gigabyte GeForce RTX 5060 Ti Eagle Max OC, 8GB, GDDR7, 128-Bits, Triple Fan - GV-N506TEAGLEMAX OC-8GD",Gigabyte,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1064793,"Placa De Vídeo PCyes Nvidia Geforce RTX 5060 Ti, 16gb, Gddr7, Dlss, Ray Tracing, PvRTX5060tib2f16g",PCYES,5376,5376,0,True,Cia PC
+2026-11-13,1000741,"Placa de Vídeo MSI RTX 5060 Shadow 2X OC NVIDIA GeForce, 8GB, GDDR7, 128-bit - 912-V537-038",MSI,4610.49,4149.44,4610.49,True,KaBuM!
+2026-11-13,857022,"Placa De Vídeo Msi Nvidia Geforce RTX 5070 Ti Shadow 3x Oc, 16gb, Gddr7, Dlss, Ray Tracing, 912-v531-465",MSI,11844.99,11844.99,0,True,TERABYTE
+2026-11-13,678225,"Placa de Vídeo Gamer Delta RX580, 8GB, 256Bits, DVI/HDMI/DP - DELTARX580",Outros,929.99,929.99,0,True,CELLFY
+2026-11-13,1012610,"Placa De Vídeo MSI GeForce RTX 5060 Ti Shadow 2X OC Plus, Nvidia, 8GB, GDDR7, 128-Bit - G506T-8S2CP",MSI,4347.81,3999.99,4347.81,True,KaBuM!
+2026-11-13,894989,"Placa De Vídeo Asus Prime Nvidia Geforce RTX 5060 Ti Oc, 16gb, Gddr7, Dlss, Ray Tracing, Prime-RTX5060ti-o16g",ASUS,6644.99,6644.99,0,True,TERABYTE
+2026-11-13,725587,"Placa de Vídeo MSI GeForce RTX 5070 12G VENTUS 2X OC,12 GB GDDR7, 28Gbps, NVIDIA GeForce RTX 5070- G5070-12V2C",MSI,7608.68,6999.99,7608.68,True,KaBuM!
+2026-11-13,565376,"Placa De Vídeo RTX 3050 Msi Geforce, Low Profile, 6GB, GDDR6, 96 Bits - 912-V812-023",MSI,2000,2000,2000,True,CASA DO PROVEDOR
+2026-11-13,697891,"Placa de Vídeo Inno3D RTX 5080 X3 NVIDIA GeForce, 16GB, GDDR7, G-Sync, Ray Tracing, DLSS 4, HDR -  N50803-16D7-176068N",Inno3d,17777.77,15999.99,17777.77,True,KaBuM!
+2026-11-13,1078270,Placa de Vídeo Nvidia Gainward RTX 5070 12GB PYTHON III GDDR7 192BITS GAINWARD NE75070019K9-GB2050T,Gainward,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,887594,Placa De Vídeo Vinik Geforce Nvidia G210 Ddr3 64bits Low Profile - Gpuvk2101gblp.,Vinik,144.33,129.9,0,True,Kadri Tecnologia
+2026-11-13,679348,"Placa De Video Rx550 Aitek Radeon AMD, 4GB, GDDR5, 128 Bits, HDMI/VGA/DVI - Delta-Rx550",Aitek,599.99,599.99,0,True,CELLFY
+2026-11-13,882341,"Placa De Vídeo Inno3d Geforce RTX 5060 Ti Twin X2, 8GB,gddr7.",Inno3d,3999,3999,0,True,Kadri Tecnologia
+2026-11-13,1053811,"Placa de Vídeo Gainward Ghost NVIDIA GeForce RTX 5060 Ti, 8GB GDDR7, 128-bit - NE7506T019P1-GB2062B",Gainward,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,888073,Placa De Vídeo Gainward RTX 5060 Ghost 8GB Grdd7 128 Bits - Ne75060019p1-gb2063b,Gainward,3407.24,3236.88,0,True,MERCADÃO DA INFORMATICA
+2026-11-13,475652,"Placa de Vídeo RTX 3060 Gaming OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR6, 128bits, Ray Tracing - GV-N3060GAMING OC-8GD",Gigabyte,3058.81,2599.99,0,True,KaBuM!
+2026-11-13,882789,Placa De Video Msi RTX 5060 Ventus 2x Oc 8GB Gddr7 128bits - 912-v537-017,MSI,3749.84,3749.84,0,True,NegociuN
+2026-11-13,1063822,"Placa De Vídeo PCyes Nvidia Geforce RTX 2060 Super, 8GB Gddr6, 256-bit, Dual Fan, Ray Tracing, Dlss -  Pvr20608tigr6df4",PCYES,2387.9,2149.11,0,True,Infotech Campinas
+2026-11-13,1078264,"Placa de Vídeo PNY NVIDIA GeForce RTX 5060 Ti, 8GB, GDDR7, 128-bits, Dual Fan, PCIe 5.0 - VCG5060T8DFXPB1-O",Pny,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1078274,Placa de Vídeo Zotac RTX 5060TI 16GB TWIN EDGE OC NVIDIA GeforceGDDR7 128BITS ZOTAC ZT-B50620H-10M,Zotac,8444.43,7599.99,8444.43,True,KaBuM!
+2026-11-13,1078277,"Placa de Vídeo MSI GeForce RTX 5060 GAMING TRIO OC NVIDIA, 8GB GDDR7, 128-bits, Triple Fan, DLSS 4 - 912-V537-021",MSI,5555.54,4999.99,5555.54,True,KaBuM!
+2026-11-13,997062,Placa de Vídeo PNY RTX 5050 STD 8GB GDDR6 SingleFan NVIDIA GeForce - VCG50508SFXPB1,Pny,7036.08,5980.67,7036.08,True,KaBuM!
+2026-11-13,1069585,"Placa De Vídeo Gigabyte Amd Radeon Rx 9050 Gaming Oc, 8GB, Gddr6, Fsr, Ray Tracing, Gv-r9050gaming Oc-8gd",Gigabyte,2549.9,2294.91,2549.9,True,TNTINFO
+2026-11-13,1053554,Suporte Para Placa De Vídeo Gpu Barriu Radiativo Com 5 Cientistas (ajustavel 50mm X 80mm) (p),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1063823,"Placa De Vídeo PCyes Nvidia Geforce RTX 4060, Gddr6, 8GB, 128-bit, Dual Fan, Preta, Ray Tracing, Pvr40608gr6df2",PCYES,3125,2968.75,0,True,BAURUINFO
+2026-11-13,909962,"Placa De Vídeo Biostar Amd Radeon Rx 580 2048sp, 8GB, GDDR5, 256 Bit, Va5815rq82",Biostar,919.99,919.99,0,True,TERABYTE
+2026-11-13,618254,Placa De Vídeo Revenger Geforce 4gb Ddr5 128 Bits,Outros,720,720,0,True,CELLFY
+2026-11-13,950561,"Placa De Vídeo Gamer Amd Radeon Rx 560, 4gb GDDR5 128bit, Clock 1300mhz Aitek - Delta-rx560",Aitek,679.9,679.9,0,True,CELLFY
+2026-11-13,776391,"Placa De Vídeo Msi Nvidia Geforce RTX 5080 Gaming Trio Oc, 16gb, Gddr7, Dlss, Ray Tracing, G5080-16gtc",MSI,18675,18675,18675,True,Cia PC
+2026-11-13,736653,Placa De Vídeo PCyes RTX 3050 Projeto Edge 8GB Gddr6 128 Bits - PvRTX30508blpe,PCYES,2387.9,2149.11,0,True,Infotech Campinas
+2026-11-13,954578,Placa De Video Msi Geforce RTX 5080 Inspire 3x Oc 16gb Gddr7 256 Bits - 912-v531-203,MSI,17818.07,17818.07,0,True,ALLIGATOR SHOP  COMERCIO
+2026-11-13,1078276,Placa de Vídeo Nvidia MSI RTX 5070 12GB GDDR7 192BITS VENTUS 2X OC BLACK MSI 912-V532-269,MSI,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,776956,"Placa de Vídeo RTX 5080 SHADOW 3X OC 16G MSI NVIDIA GeForce, 16GB GDDR7, 256bits, DLSS, Ray Tracing - 912-V531-031",MSI,12859,11958.87,12859,True,LOGIN INFORMATICA
+2026-11-13,751906,"Placa de Vídeo MSI RTX 5060 Ti 8G VENTUS 2X OC PLUS NVIDIA GeForce, 8GB GDDR7, 128-bit, 2617 MHz, FP4 e DLSS 4, Ray Tracing - G506T-8V2CP",MSI,4705.87,3999.99,4705.87,True,KaBuM!
+2026-11-13,1032268,Placa De Video 1gb Geforce G210 Ddr3 64bit Vga/hdmi/dvi Gpuvk2101gblp0k3,Vinik,146.7,146.7,146.7,True,BFTECH
+2026-11-13,888143,Placa De Video Vinik Rx 580 8GB GDDR5 256 Bits - Gpuvk5808GB2f,Vinik,1153.38,899.64,0,True,BFTECH
+2026-11-13,602323,"Placa de Vídeo MSI RTX 3050 Ventus 2X OC, 6GB RAM, GDDR6, 96 Bits - 912-V812-016",MSI,1880,1598,0,True,Net Alfa Computadores
+2026-11-13,905341,"Placa De Vídeo Msi Nvidia Geforce RTX 5050 Ventus 2x Oc, 8GB, Gddr6, Dlss, Ray Tracing, 912-v538-010",MSI,2759.15,2483.24,0,True,TERABYTE
+2026-11-13,874553,"Placa Vídeo Gamer Rx590 8GB GDDR5, 256bit, HDMI Dp Dvi, Setup Gamer",Aitek,1099.99,1099.99,0,True,CELLFY
+2026-11-13,1056508,Gpu Nvidia Geforce Gt740 4gb GDDR5 128 Bit Single Fan - Gpuk7404gbfsf1,Vinik,498.28,448.45,498.28,True,HD Store Oficial
+2026-11-13,1078275,"Placa de Vídeo MSI RTX 5060 Ventus 2X OC White NVIDIA GeForce, 8GB, GDDR6, Dual Fan, Branco - 912-V537-018",MSI,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,903523,"Placa De Vídeo  Geforce RTX 5060 Ti  2x Oc Plus, 8GB, Gddr7",MSI,4043.9,3639.51,0,True,TNTINFO
+2026-11-13,882086,"Placa De Vídeo Asus Prime Nvidia Geforce RTX 5070 Ti Oc Edition, 16gb, Gddr7, Dlss, Ray Tracing, Prime-RTX5070ti-o16g",ASUS,11954.99,10759.49,0,True,TERABYTE
+2026-11-13,716084,Placa De Vídeo PCyes Nvidia Geforce Gt 710 2gb Ddr3 64 Bits Low Profile - Ppet7102gblp,PCYES,348.57,303.26,0,True,Kometa
+2026-11-13,939795,"Placa De Vídeo Asus Prime Amd Radeon Rx 9070 Xt Oc Edition, 16gb, Gddr6, Fsr, Ray Tracing, Prime-rx9070xt-o16g",ASUS,7729.99,6956.99,0,True,TERABYTE
+2026-11-13,690411,"Placa De Vídeo Nvidia Geforce Gt740, GDDR5 4g, Clock 5.000mhz, PCi Express 3.0, Saídas De Vídeo HDMI Vga E Dvi, Resolução 2560x1600p",Outros,479,479,0,True,CELLFY
+2026-11-13,1077131,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, Amd Preto",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,692493,Placa De Vídeo Vxpro Nvidia Geforce Gtx 750 Ti 4gb GDDR5 128 Bits - Gtx750ti-4gd5,Vxpro,709.6,553.49,0,True,BFTECH
+2026-11-13,882316,Placa De Video Msi Geforce RTX 5060 Shadow 2x Oc 8GB Gddr7 128 Bits 912-v537-037,MSI,3664.9,3298.41,0,True,TNTINFO
+2026-11-13,726691,Placa De Vídeo Gigabyte Nvidia Geforce RTX 5080 Windforce 16gb Gddr7 256bits,Gigabyte,14799,14799,0,True,LOGIN INFORMATICA
+2026-11-13,1063824,Placa De Video Geforce RTX3060 Ti 8GB Gddr6 256bits - Pvr30608tgr6df3,PCYES,3199.4,3199.4,3199.4,True,BFTECH
+2026-11-13,525561,"Placa de Vídeo Inno3D Twin X2 RTX 3050 NVIDIA GeForce, 6GB, GDDR6 - N30502-06D6-1880VA60",Inno3d,2401.7,2041.44,2401.7,True,KaBuM!
+2026-11-13,400204,"Placa De Video Pcyes  GTX 1660 Super NVIDIA GeForce 6GB, GDDR6, 192bits - Pa1660s6gr6df",PCYES,1649.99,1649.99,0,True,FrancaVirtual Informática
+2026-11-13,952540,"Suporte Placa De Vídeo Ajustável De 7 A 12,5cm Nvidia Preto",Mercadao Da Informatica,25.04,23.79,0,True,MERCADÃO DA INFORMATICA
+2026-11-13,944416,Placa De Video Gpu Amd Radeon Rx 7600xt 16gb Gddr6 128 Bits Projeto Edge Pvr760016gbpedf,PCYES,3443.33,3099,0,True,Kadri Tecnologia
+2026-11-13,928106,Gpu Asrock Amd Radeon Rx 9070 Steel Legend 16gb 256bits Oc 90-ga5ezz-00uanf,ASRock,7099.9,6531.91,0,True,EFACINI
+2026-11-13,714458,"Placa De Vídeo Gamer Nvidia Geforce Gtx1660s, Gddr6 6gb, Clock 1.530 Mhz, PCi Express 3.0 X16, Compatível Opengl, HDMI Dvi-d Dp, Upgrade PC",Outros,1432,1432,0,True,CELLFY
+2026-11-13,643994,Suporte Placa De Vídeo Vertical 80-120mm Preto Coolmoon,Outros,48.85,48.85,0,True,RURT STORE
+2026-11-13,875453,Gpu Inno3d Geforce RTX 5080 X3 Oc 16gb 256-bit N50803-16d7x-17603930,Inno3d,13154.33,11838.9,13154.33,True,TNTINFO
+2026-11-13,1062772,Placa De Vídeo Leadertech Geforce Gt 610 Low Profile 2gb Ddr3 64 Bits - Pv-lt-gt610lp-2g-d3,Outros,265.44,238.9,0,True,PRIMETEK
+2026-11-13,928109,Gpu Inno3d Geforce RTX  5090 X3 Oc 32gb 512-bit Gddr7 N50903-32d7x-1759392,Inno3d,46999,46999,0,True,NET SERVER COMERCIAL DE INFORMATICA LTDA
+2026-11-13,997884,Placa De Vídeo MSI Geforce Rtx5060 8gb Gdrr7 Ventus Oc Edition 2x 128 Bits - 912-V537-054,MSI,4597.69,3999.99,4597.69,True,KaBuM!
+2026-11-13,900231,Placa De Vídeo Msi Geforce RTX 5060 Ti Shadow 2x Oc Plus 16gb Gddr7 128bits  912-v535-218,MSI,5539,5539,0,True,LOGIN INFORMATICA
+2026-11-13,1058237,Suporte Para Placa De Vídeo Gpu Fantasma (ajustável 70mm Até 120mm),Outros,19.9,19.9,0,True,INFOTEC 3D
+2026-11-13,578744,Caixa De Som Soundbar Psb P2 Tv Gamer Subwoofer Cel Led Pc,Knup,64.83,58.35,0,True,KEEDI ELETRONICOS
+2026-11-13,643995,Suporte Placa De Vídeo Vertical 50-80mm Preto Coolmoon,Outros,44.85,44.85,0,True,RURT STORE
+2026-11-13,726011,"Placa De Vídeo Msi Nvidia Geforce RTX 5070 Ti Ventus 3x Oc, 16gb, Gddr7, Dlss, Ray Tracing, G507t-16v3c",MSI,9520.21,8949,0,True,LOGIN INFORMATICA
+2026-11-13,1072430,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, NVIDIA PRETO",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,989003,"Placa De Vídeo Asus Amd Radeon Rx 9060 Xt Dual, 16gb, Gddr6, Fsr, Ray Tracing, 90yv0lg2-m0na00",ASUS,4714.99,4714.99,0,True,TERABYTE
+2026-11-13,1056509,"Placa De Vídeo Vinik Amd Radeon Rx 580, 8GB, GDDR5, 256 Bits, Gpuvk580v28GB2f",Vinik,1252.45,1027.01,1252.45,True,BFTECH
+2026-11-13,1029663,Placa De Vídeo Rx 580 8GB GDDR5 RGB Aitek Amd Radeon Full Hd Gamer,Aitek,1079.99,993.59,0,True,JULISHOP
+2026-11-13,706620,Gpu Nvidia Geforce Gt740 2gb GDDR5 128 Bit Single Fan Projeto Edge - Pvgt740gb2pe,PCYES,421.11,379,0,True,Kadri Tecnologia
+2026-11-13,1062771,Placa De Vídeo Leadertech Geforce Gt 730 Low Profile 4gb Ddr3 128 Bits - Pv-lt-gt730lp-4g-d3,Outros,350.08,304.57,0,True,Kometa
+2026-11-13,903752,"Placa De Vídeo Inno3d Nvidia Geforce RTX 5060 Twin X2, 8GB, Gddr7, Dlss, Ray Tracing, N50602-08d7-195071n",Inno3d,3119,3119,0,True,LOGIN INFORMATICA
+2026-11-13,997883,Placa de Video MSI GeForce RTX 5060 TI 16Gb Ventus OC Black Plus 2X 128 Bits HDMI/3X DP - 912-V535-088,MSI,7168.09,6594.64,7168.09,True,KaBuM!
+2026-11-13,882087,"Placa De Vídeo Asus Prime Nvidia Geforce RTX 5070 Oc Edition, 12gb, Gddr7, Dlss, Ray Tracing, 90yv0m10-m0na00",ASUS,7854.9,7069.41,0,True,TNTINFO
+2026-11-13,934698,Placa De Video Palit Geforce RTX 5060 Ti Infinity 3 16gb Gddr7 128bits Ne7506t019t1-gb2061s,Outros,6069.9,5462.91,0,True,TNTINFO
+2026-11-13,994308,Placa De Vídeo Asrock Amd Radeon Rx 9060 Xt Challenger Oc 16gb Gddr6 128 Bits - 90-ga5qzz-00uanf,ASRock,5527.5,4864.2,0,True,Cia PC
+2026-11-13,507297,"Suporte Para Placa De Vídeo Vertical Redragon Gcp03, Preto",Redragon,99.88,84.9,0,True,LevelUp Shop
+2026-11-13,700489,"Placa De Vídeo Duex Geforce Gt 210, 1gb Ddr3, 64 Bits, Low Profile, HDMI/dvi/vga - G210lp-1gd3",Vx Pro,141.88,134.79,0,True,Cavuca
+2026-11-13,637744,Placa De Vídeo Nvidia Geforce Vxpro Gt 730 4gb Ddr3 128 Bits Low Profile,Nvidia,361.35,281.85,0,True,BFTECH
+2026-11-13,1078268,"Placa de Vídeo Zotac Gaming RTX 5060 Twin Edge OC NVIDIA GeForce, 8GB GDDR7, 128-bits, Dual Fan, DLSS 4 - ZT-B50600H-10M",Zotac,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1070648,"Placa de Video MSI RTX 5070 Ti GAMING TRIO OC NVIDIA GeForce, 16GB, GDDR7 - G507T-16GTC",MSI,14444.43,12999.99,14444.43,True,KaBuM!
+2026-11-13,878603,"Placa de Vídeo MSI RTX 5060 Ti 16G SHADOW 2X OC PLUS Geforce NVIDIA, 16GB GDDR7, 128 bits, 2617 MHz, DLSS 4, Ray Tracing - G506T-16S2CP",MSI,6980.1,6282.09,6980.1,True,KaBuM!
+2026-11-13,1078257,"Placa de Vídeo PcYes RTX 3070 GAMING PRO NVIDIA Geforce, 8GB GDDR6 256 BITS - GRAFFITI SERIES - PRTX3070GP8DR6256",PCYES,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,928108,Placa De Video Palit Geforce RTX 5060 8GB Oc 128bits Gddr7 Infinity 3 Ne75060t19p1-gb2063s,PALIT,4559.9,4195.11,0,True,EFACINI
+2026-11-13,922131,Placa De Video 4gb Geforce - Gt730 - Winnfox - 128bits Gt730lp-4gd3-a Ddr3,Outros,300.96,300.96,0,True,Rei Batuta Info
+2026-11-13,578222,Geforce G210 1gb GDDR3 64bits - Winnfox - G210-1gd3,Outros,137.17,123.45,0,True,Rei Batuta Info
+2026-11-13,1053105,Suporte Para Placa De Vídeo Gpu Barriu Radiativo Com 5 Cientistas (ajustavel 70mm X 120mm) (g),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1072431,Suporte Placa De Video Amd Radeon Rx Gpu Ajustável 7 A 12cm,Outros,28.99,28.99,0,True,Evolutec 3D
+2026-11-13,520149,"Placa De Vídeo Galax Geforce Gt 730, 4GB, DDR3, 128bits - 73gqf8hx00hd",Galax,410.88,369.79,0,True,TIBURON
+2026-11-13,991866,Placa De Video Vxpro Geforce G210 1gb Ddr3 64 Bits G210lp-1gd3 HDMI/vga,Vxpro,153.68,119.87,0,True,BFTECH
+2026-11-13,400952,Placa De Vídeo Quadro Pny Nvidia T400 4gb Gddr6 64 Bits - Vcnt4004gb-pb,Pny,1459.26,1313.33,1459.26,True,HD Store Oficial
+2026-11-13,939796,Placa De Video Galax Geforce RTX 5060 Ti Ex Gamer Classic White 8GB Gddr7 128 Bits - 56isn8md7kwc,Galax,4916.03,4916.03,0,True,Bits & Bytes
+2026-11-13,1031074,Placa De Vídeo Gamer Nvidia Gtx 1050 Ti 4gb GDDR5 128bits HDMI - Preto,Outros,1071.3,1017.73,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1061740,Placa De Vídeo Leadertech Radeon Rx 550 4gb GDDR5 128 Bits - Pv-lt-rx550-4g-d5,Outros,649.9,649.9,0,True,HELTECH INFORMATICA E MARKETING DIGITAL LTDA
+2026-11-13,1033699,"Placa De Vídeo Msi Geforce RTX 5060 Ti Gaming Trio Oc, 8GB, Gddr7, 128-bit, PCie 5.0, G506t-8gtc",MSI,5268.32,5268.32,0,True,ZOING BRASIL
+2026-11-13,1065197,Placa De Vídeo Leadertech Geforce Gtx 750 Ti 4gb GDDR5 128 Bits - Pv-lt-gtx750ti-4g-d5,Outros,652.9,613.73,0,True,GIGANTEC
+2026-11-13,947242,Placa De Vídeo Vinik G 210 Low Profile 1gb Ddr3 64bits - Gpuvk21001gblp0h2,Vinik,159,135.15,0,True,Net Alfa Computadores
+2026-11-13,770029,Placa De Video PCyes Rx 570 Projeto Edge 8GB GDDR5 256bits - Pvex5708GB2f,PCYES,1443.3,1443.3,0,True,ZOING BRASIL
+2026-11-13,734680,"Placa de Vídeo Gigabyte RX 9070 Gaming OC AMD Radeon, 16GB, GDDR6, 256 bit, OpenGL 4.6 - GV-R9070GAMING OC-16GD",Gigabyte,9411.75,7999.99,9411.75,True,KaBuM!
+2026-11-13,1078279,"Placa de Vídeo Gainward RTX 5070 12GB PHOENIX NVIDIA Geforce, GDDR7, 192BITS, Triple Fan, Preto - NE75070019K9-GB2050X",Gainward,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,874371,Placa De Video Gainward RTX 5060 Ti Phyton Iii 16gb Gddr7 128bits - Ne7506t019t1-gb2061t,Gainward,6252.82,6252.82,0,True,OFFCOMP
+2026-11-13,1012485,Gpu Powercolor Amd Radeon Rx 6500xt 4gb Gddr6 64bits 4gbd6-dhv3,Power,1774.9,1419.92,0,True,Grupo Lees
+2026-11-13,754153,Placa De Vídeo Gigabyte Geforce RTX 5070 Eagle Oc Ice Sff 12gb Gddr7 192 Bits - Gv-n5070eagleoc Ice-12gd,Gigabyte,11891.88,11891.88,0,True,VIXE E-COMMERCE
+2026-11-13,731093,Placa De Vídeo PCyes RTX 3050 Projeto Edge 6gb Gddr6 96 Bits - PvRTX30506wtpe,PCYES,1784.99,1784.99,0,True,TERABYTE
+2026-11-13,1049710,Suporte Para Placa De Vídeo Ajustável Morte,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1056214,Suport Para Placa De Vídeo Gpu Gatinhos Fofo (ajustavel 55mm X 85mm)(p),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1022083,Placa De Video Afox Geforce Gtx 1650 Dual Fan 4gb Gddr6 128 Bits - Af1650-4096d6h7-v2,Afox,1528.99,1452.54,0,True,Cavuca
+2026-11-13,714565,"Placa de Vídeo Gigabyte RTX 5070 Ti GAMING OC 16G NVIDIA GeForce, 16GB GDDR7, 256bits, RGB, DLSS, Ray Tracing - 9VN507TGO-00-G10",Gigabyte,18823.52,15999.99,18823.52,True,KaBuM!
+2026-11-13,506094,"Placa de Vídeo Quadro A800 PNY Nvidia, 40GB HBM2, 5120bits - VCNA800-PB",Pny,117647.06,100000,117647.06,True,KaBuM!
+2026-11-13,697890,"Placa de Vídeo Inno3D RTX 5080 X3 OC NVIDIA GeForce, 16GB, GDDR7, G-Sync, Ray Tracing, DLSS 4, HDR - N50803-16D7X-17603930",Inno3d,18181.81,15999.99,18181.81,True,KaBuM!
+2026-11-13,117379,"Placa de Vídeo Galax GT 1030, NVIDIA GeForce 2GB, DDR5, 64 Bits, 6008MHz - 30NPH4HVQ4ST",Galax,884.99,884.99,0,True,TERABYTE
+2026-11-13,816883,"Placa De Vídeo RTX 5070 1 Click Oc 2x Nvidia Galax, 12GB, 192 Bits, 3x Displayport/HDMI - 57non7mdbroc",Galax,6299.99,6299.99,0,True,PATOLOCO
+2026-11-13,1077586,Placa De Video Vxgtx750ti-4gd5 Vxpro,Vxpro,539.9,539.9,0,True,HELTECH INFORMATICA E MARKETING DIGITAL LTDA
+2026-11-13,1070621,Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5080 Solid Core Oc 16gb Gddr7 Dlss Ray Tracing,Zotac,19999,19999,19999,True,EASYTECH TECNOLOGIA COMERCIO E SERVICOS LTDA
+2026-11-13,1076095,"Placa De Vídeo Vinik Nvidia Geforce Gtx 1060, 6gb, GDDR5, 192 Bits, Gpuvk10606gb2fv02",Vinik,1599,1279.2,0,True,VERSATIL ECOMM
+2026-11-13,1078262,"Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 3050 Twin Edge OC, 6GB GDDR6, 96-bit - ZT-A30510H-10A",Zotac,2222.21,1999.99,2222.21,True,KaBuM!
+2026-11-13,802426,"Placa de Vídeo RTX 5060 Ti GAMING OC 8G Gigabyte NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N506TGAMING OC-8GD",Gigabyte,5882.34,4999.99,5882.34,True,KaBuM!
+2026-11-13,1078394,Placa de Vídeo Palit RTX5080 INFINITY 3 16GB GDDR7 - NE75080019T2-GB2035S,PALIT,17777.77,15999.99,17777.77,True,KaBuM!
+2026-11-13,986001,Placa De Video Gigabyte Geforce RTX 5060 Windforce Oc Max 8GB Gddr7 128 Bits - Gv-n5060wf2max Oc-8gd,Gigabyte,3379,3176.26,3379,True,LOGIN INFORMATICA
+2026-11-13,1012509,"Placa De Vídeo Msi Nvidia Geforce Gt 1030 4gd4 Lp Oc, 4gb, GDDR4, 64 Bits, 912-v812-001",MSI,759,713.46,0,True,LOGIN INFORMATICA
+2026-11-13,1025148,"Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5090 Solid Oc, 32gb, Gddr7, Dlss, Ray Tracing, Zt-b50900j-10a",Zotac,48274.99,48274.99,0,True,TERABYTE
+2026-11-13,1066958,Suporte Para Placa De Vídeo Ntc R15 Preto - R15blk,NTC,34.9,32.81,0,True,GIGANTEC
+2026-11-13,505835,Suporte Vertical Gpu Placa De Video Bracket PCi-e 4.0 16x,Deepcool,623.41,529.9,0,True,LevelUp Shop
+2026-11-13,1043130,Placa de video RX 580 Clanm Preta 8GB DDR5 256bit HDMI DP DVI,Clanm,999,999,0,True,HELTECH INFORMATICA E MARKETING DIGITAL LTDA
+2026-11-13,998128,"Placa De Vídeo  Rx 580, 8GB GDDR5 256 Bit Full Hd, HDMI Displayport PCi Express 3.0",Aitek,979.9,901.51,0,True,JULISHOP
+2026-11-13,617257,"Placa De Video Revenger RX 550 AMD Radeon 4GB, GDDR5, 128Bits",Outros,699.9,699.9,0,True,NINJA PLACE
+2026-11-13,551030,Placa De Vídeo Gt730 GDDR3 4gb Vga Hd Dvi 128 Bits 700mhz,Aitek,340,340,0,True,CELLFY
+2026-11-13,954620,"Placa De Vídeo GDDR3 2gb PCi Express 2.0 16x, Clock 625mhz, HDMI Dvi Vga, Ideal Para Upgrades",Aitek,225,225,0,True,CELLFY
+2026-11-13,577171,"Placa de Vídeo Asus RTX 3050 OC Dual NVIDIA GeForce 6GB, GDDR6, 96 Bits - DUAL-RTX3050-6G",ASUS,1852.22,1667,0,True,CASA DO PROVEDOR
+2026-11-13,507266,"Suporte Para Placa De Vídeo Vertical Redragon Gcp03w, Branco",Redragon,94.05,73.36,0,True,BFTECH
+2026-11-13,147389,"Placa de Vídeo Afox NVIDIA GeForce GT210, 1GB DDR3 - AF210-1024D3L5-V2",Afox,389,389,0,True,3 R
+2026-11-13,614469,Placa Vídeo Nvidia Gaming Geforce Gt730 2gb Ddr3 PCi Express,Outros,340,340,0,True,CELLFY
+2026-11-13,1069580,"Placa De Vídeo Msi Nvidia Geforce RTX 5070 Ti Frieren Edition Oc, 16gb, Gddr7, Dlss, Ray Tracing, 912-v531-682",MSI,15999.99,14399.99,0,True,Victory
+2026-11-13,1008147,Placa De Vídeo Aitek - Gt730 (4GB - DDR3),Aitek,479.9,479.9,0,True,MR ELETRÔNICOS
+2026-11-13,635959,"Placa De Vídeo Vx Pro Nvidia Geforce Gtx1050 Ti, 4gb, 128bits, Gtx1050ti-4gd5 Vx Pro",Vx Pro,1203.13,938.44,0,True,BFTECH
+2026-11-13,1008144,Placa de Vídeo RX580 | 8GB DDR5 | HDMI DVI PCIe 3.0 Gamer,Aitek,1288.4,1288.4,0,True,MR ELETRÔNICOS
+2026-11-13,751905,"Placa de Vídeo MSI RTX 5060 Ti 8G GAMING OC NVIDIA GeForce, 8GB GDDR7, 128-bit, 2662 MHz, FP4 e DLSS 4, Ray Tracing - G506T-8GC",MSI,5882.34,4999.99,0,True,KaBuM!
+2026-11-13,635188,"Placa De Vídeo Vx Pro Duex GT 210 GeForce 1GB, DDR3, 64 Bits, Low Profile, VGA/HDMI/DVI - G210lp-1gd3",Vxpro,173.09,135.01,0,True,BFTECH
+2026-11-13,629803,Placa De Video Rx580 8GB Radeon GDDR5,PCWINMAX,997.56,997.56,0,True,BIGU AZUL ECOMMERCE
+2026-11-13,905255,Placa De Video Zotac RTX 5060 Twin Edge 8GB Oc Gddr7 128bits - Zt-b50600h-10m,Zotac,3511,3511,0,True,ALLIGATOR SHOP  COMERCIO
+2026-11-13,727607,Placa De Vídeo Gigabyte Nvidia Geforce RTX 5080 Gaming Oc 16gb Gddr7 256bit,Gigabyte,23780.58,23780.58,0,True,Bits & Bytes
+2026-11-13,1003843,Placa De Video Rx 6500 Xt 4gb Gddr6 64bits Kinology,Outros,1416.1,1345.29,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,332863,"Placa de Vídeo PCYes RTX 2060 NVIDIA GeForce GEF 6GB, GDDR6, 192 Bits, Dual FAN, Full Size",PCYES,3463.34,3463.34,0,True,TERABYTE
+2026-11-13,1030542,Placa De Vídeo Zotac Nvidia Geforce RTX 5060 Ti Twin Edge Oc 16gb Gddr7 128 Bits - Zt-b50620h-10a,Zotac,6069.99,6069.99,0,True,TERABYTE
+2026-11-13,1051729,Placa De Video Abit Radeon Rx580 8GB GDDR5 - Bp580d-6a45b,Abit,1146.73,894.45,0,True,BFTECH
+2026-11-13,1058163,Placa De Video Gamer Nvidia Gtx 1060 6gb 192bits GDDR5 HDMI,Outros,1248.56,1186.13,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,776942,Placa De Video Inno3d Geforce RTX 5070 Twin X2 12gb 192bits Gddr7 N50702-12d7-195064n,Inno3d,6549.99,6549.99,0,True,Oficina dos Bits
+2026-11-13,1008146,Placa De Vídeo Aitek - Rx550 (4GB - DDR5),Aitek,767.64,767.64,0,True,MR ELETRÔNICOS
+2026-11-13,931072,Placa De Vídeo Asus Geforce RTX 5060 Prime 8GB Gddr7 Oc 128bits,ASUS,4285.75,4285.75,0,True,WEBCONTINENTAL MARKETPLACE
+2026-11-13,747495,Placa De Vídeo Asus RTX 3050 Oc Dual 6gb Nvidia Geforce Gddr6 Dual-RTX3050-6g,ASUS,1885.56,1697,0,True,CASA DO PROVEDOR
+2026-11-13,641729,Gpu Gt 1030 4gb GDDR4 64bit Single Fan Low Profile - Pagt10304gbg4lp,PCYES,899.9,899.9,0,True,Atacadão do Toner
+2026-11-13,877496,"Placa De Vídeo RTX 5060 Windforce Oc Nvidia Gigabyte, 8GB, GDDR7, 128 Bits - 9vn5060wo-00-G10",Gigabyte,3190,3190,0,True,Shopfavs ES
+2026-11-13,1078321,Placa De Vídeo Nvidia Geforce Gtx 750ti Revenger 4gb GDDR5,Outros,740.75,740.75,0,True,KEEDI ELETRONICOS
+2026-11-13,1060591,"Placa De Vídeo Gainward Nvidia Geforce RTX 5080 Python Iii, 16gb, Gddr7, Dlss, Ray Tracing, Ne75080019t2-gb2035t",Gainward,16094.99,16094.99,0,True,TERABYTE
+2026-11-13,1056507,Placa De Video Palit Geforce RTX 5060 8GB Infinity 2 Oc Gddr7 128bits - Ne75060v19p1-gb2063l,PALIT,3897.12,3897.12,0,True,GOIG COMERCIO ELETRONICO LTDA
+2026-11-13,172547,"Placa de Vídeo Asus AMD, 12GB GDDR6 - TUF-RX6700XT-O12G-GAMING",ASUS,13799,10763.22,0,True,TENDINFO
+2026-11-13,300165,"Placa de Vídeo Afox NVIDIA GeForce GTX750, 2GB GDDR5, 128 Bits, HDMI, DVI, VGA - AF750-2048D5L4",Afox,833,833,0,True,ZOING BRASIL
+2026-11-13,701169,Placa De Video Nvidia Geforce Gt210/1g 1,Outros,274.99,274.99,0,True,SOBRALTECH
+2026-11-13,905826,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 5060 Ti Windforce Oc, 8GB, Gddr7, Dlss, Ray Tracing, Gv-n506twf2oc-8gd",Gigabyte,4484.99,4484.99,0,True,TERABYTE
+2026-11-13,1077411,"Placa De Vídeo Haoqing Blizzards Radeon Rx 580, 8GB, GDDR5, White, 256 Bits, Hq26162558",Outros,1371.44,1206.87,0,True,FLER EQUIPAMENTOS E INTERMEDICAO DE NEGOCIOS LTDA
+2026-11-13,728005,"Placa De Vídeo GDDR3 1gb Gt340, Clock 600mhz, PCi-e 2.0 16x, Upgrade PC HDMI Dvi Vga",Aitek,169.9,169.9,0,True,CELLFY
+2026-11-13,628154,"Placa De Vídeo Nvidia Geforce 2gb Gt 705, Gdrr3, 64 Bit, Gt705/2g - Revenger",Outros,417.89,417.89,0,True,SOBRALTECH
+2026-11-13,1044472,Placa De Video Nvidia Geforce Gt 730 4gb 128bits GDDR3 HDMI,Outros,1569.9,1569.9,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,573345,"Placa de Vídeo Challenger ASRock, AMD Radeon RX 7600, 8GB, GDDR6, 128 Bits - 90-GA41ZZ-00UANF",ASRock,2769.99,2769.99,0,True,Oficina dos Bits
+2026-11-13,957856,Placa De Vídeo - Rx580 (8g) GDDR5,Aitek,1250,1250,0,True,MR ELETRÔNICOS
+2026-11-13,984610,Placa De Vídeo Asrock Amd Radeon Rx 7600 Challenger Pro 8GB Oc Gddr6 128 Bits - Rx7600 Clp 8go,ASRock,3176.55,3176.55,0,True,Importline Express
+2026-11-13,727452,"Placa De Vídeo Galax, Geforce RTX 3050 Ex V2 (1-click Oc), 6gb, Gddr6 - 35nrldhp9oid",Galax,1924.99,1924.99,0,True,TERABYTE
+2026-11-13,881686,Placa De Vídeo Asrock Amd Radeon Rx 9070 Xt Taichi Oc 16gb Gddr6 256 Bits - 90-ga5hzz-00uanf,ASRock,8969.9,8431.71,0,True,GIGANTEC
+2026-11-13,1062156,"Placa De Vídeo Duex Radeon Rx 580, 8GB, GDDR5, Dxrx580-8gd5ha",Duex,1225.44,1225.44,0,True,GOIG COMERCIO ELETRONICO LTDA
+2026-11-13,1003842,Placa De Video Rx 590 8GB Ddr5 256bits PCwinmax - Preto,PCWINMAX,1312.9,1247.26,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,941152,Placa De Video Asus Dual Geforce RTX 5060 Ti Oc 16gb Gddr7 128 Bits - Dual-RTX5060ti-o16g,ASUS,6349.9,5714.91,0,True,TNTINFO
+2026-11-13,685950,Placa De Vídeo Star 2gb Geforce Gt610 Ddr3 PCi Express Graphic Series,STAR,522.01,495.91,0,True,ELETRONICA SANTANA
+2026-11-13,1032165,Placa De Vídeo Rx560 - 4gb Ddr5 - 128bit - Dvi/hdmi/dp - Single Fan - Chipset Baffin - Clanm,Clanm,652.54,652.54,0,True,POWER GAME LTDA
+2026-11-13,1022085,Placa De Video Afox Geforce RTX 2060 Super 8GB Gddr6 256 Bits - Af2060s-8192d6h4-v2,Afox,2379.83,2070.45,0,True,Kometa
+2026-11-13,716196,Placa De Vídeo RTX 5080 Ventus 3x Oc 16gb Gddr7 256bits Msi - 912-v531-262,MSI,12929,12153.26,0,True,LOGIN INFORMATICA
+2026-11-13,1052725,Placa Video 1gb R5 230 Goline 625mhz Ddr3 64bits,GOLINE,189.9,189.9,0,True,EQUIPECLUB
+2026-11-13,747554,"Placa de Vídeo RX 9070 XT GAMING 16G AMD Radeon Gigabyte, 16GB, GDDR6, 256bits, RGB - GV-R9070XTGAMING-16GD",Gigabyte,8609.93,7318.44,8609.93,True,KaBuM!
+2026-11-13,505869,"Suporte Para Placa De Vídeo Ntc R15, Branco - R15WHT",NTC,25.9,24.35,0,True,GIGANTEC
+2026-11-13,754152,Placa De Video Gigabyte Geforce RTX 5070 Gaming Oc 12gb Gddr7 192 Bits - Gv-n5070gaming Oc-12gd,Gigabyte,12084.93,12084.93,0,True,VIXE E-COMMERCE
+2026-11-13,1035561,"Placa De Vídeo Geforce Ddr7 16gb/256 Bits RTX 5080 Palit Gaming, 3 Fans, Dp, HDMI, Ne75080019t2-gb2031y, Preta",PALIT,14099,14099,0,True,POWER GAME LTDA
+2026-11-13,520114,"Suporte para Placa De Vídeo Coolmoon, Branco, LED ARGB 5v, 3 Pinos, 280mm, Controlável",Outros,119.9,117.5,0,True,RURT STORE
+2026-11-13,594207,Placa De Video Pny Nvidia Quadro RTX 5000 Ada 32gb Gddr6 256-bit VcnRTX5000ada-pb,Pny,44235.05,39811.55,0,True,HD Store Oficial
+2026-11-13,1078263,Placa de Vídeo Nvidia Gainward RTX 5060TI 8GB GHOST OC GDDR7 128BITS GAINWARD NE7506TT19P1-GB2062B,Gainward,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,161693,"Placa de Vídeo Afox AMD Radeon R5 230, 1GB DDR3, Low Profile - AFR5230-1024D3L4",Afox,315.5,315.5,0,True,Bits & Bytes
+2026-11-13,594205,Placa De Video Pny Nvidia Quadro RTX 4000 Ada 20gb Gddr6 160-bit VcnRTX4000ada-pb,Pny,17459.99,17459.99,0,True,Oficina dos Bits
+2026-11-13,902595,"Placa De Vídeo PCyes Geforce RTX 2060 Graffiti Series, 6gb Gddr6, 192bits, Dlss3, Ray Tracing, Dual Fan - Pa2060RTX6gdf",PCYES,2139.18,1861.09,0,True,Kometa
+2026-11-13,573744,Placa De Vídeo Gainward RTX3050 Pegasus 6gb Gddr6 96bits Ne63050018je-1070e,Gainward,1999,1599.2,0,True,VERSATIL ECOMM
+2026-11-13,270478,"Placa De Vídeo AFOX AMD Radeon R5 230 1GB, DDR3, HDMI, VGA, DVI - AFR5230-1024D3L9-V2",Afox,229.12,199.33,0,True,SGMAX TECNOLOGIA E COMERCIO
+2026-11-13,1049714,Suporte Para Placa De Vídeo Ajustável Jesus,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1032759,Placa de Vídeo GT 340 1GB DDR3 | HDMI VGA DVI | Ideal para PC Básico,Aitek,242.78,242.78,0,True,MR ELETRÔNICOS
+2026-11-13,1033740,Placa De Video Palit Geforce RTX 5060 Ti White Oc 8GB Gddr7 128 Bits - Ne7506tu19p1-gb2062m,PALIT,4321,4321,0,True,Cia PC
+2026-11-13,217261,"Placa de Vídeo Zotac NVIDIA GeForce RTX 3060 Twin Edge, 12GB GDDR6 - ZT-A30600E-10M",Zotac,5989,5390.1,0,True,Vinicius Varejo Store
+2026-11-13,1008148,Placa de Vídeo GT740 | 4GB DDR5| HDMI VGA DVI PCIe,Aitek,593.24,593.24,0,True,MR ELETRÔNICOS
+2026-11-13,944415,Placa De Vídeo Revenger - Geforce RTX 2060 Super,Outros,2850,2850,0,True,MR ELETRÔNICOS
+2026-11-13,987296,Placa De Vídeo AITEK - RX560 (4GB - DDR5),Aitek,793.9,793.9,0,True,MR ELETRÔNICOS
+2026-11-13,1009192,Placa Gráfica Nvidia Quadro RTX Pro 2000 16gb Gddr7 128bits - Pny VcnRTXpro2000b-pb,Pny,10629.99,10629.99,0,True,Oficina dos Bits
+2026-11-13,755113,Placa De Vídeo Gigabyte Geforce RTX 5070 Windforce Oc Sff 12gb Gddr7 192 Bits - Gv-n5070wf3oc-12gd,Gigabyte,11773.98,11773.98,0,True,TERABYTE
+2026-11-13,253561,"Placa De Vídeo Pcyes GTX 750 Ti NVIDIA GeForce, GDDR5 2GB, 128bits, Dual Fan - Pj750tir5df 3568",PCYES,1014.65,1014.65,0,True,DIGITUSUL
+2026-11-13,713158,Amd Radeon Rx 7900 Gre 16gb Gddr6 256bits - Xfx - Rx-79gmercb9,XFX,7849.99,7849.99,0,True,Oficina dos Bits
+2026-11-13,635954,"Placa De Video Vx Pro Amd Radeon Rx580, 8GB, 256bits, Rx580-8gd5 Vx Pro",Vxpro,1153.35,899.61,0,True,BFTECH
+2026-11-13,1032321,Placa Vídeo 4gb Gtx750ti Star GDDR5 1020mhz 128bits,STAR,719.9,719.9,0,True,EQUIPECLUB
+2026-11-13,952541,"Suporte Placa De Vídeo Ajustável De 7 A 12,5cm Nvidia Branco",Mercadao Da Informatica,25.04,23.79,0,True,MERCADÃO DA INFORMATICA
+2026-11-13,1031362,Suporte Para Placa De Vídeo Ajustável Gamer Ghost,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1065147,Placa De Vídeo Gpu 4gb GDDR5 Gtx 1050ti  128bits Afox Af1050ti-4096d5h5-v8,Afox,1270,1206.5,0,True,BAURUINFO
+2026-11-13,681586,"Placa de Vídeo Gigabyte RTX 3050 Windforce OC NVIDIA GeForce, 6GB, GDDR6, DLSS, Ray Tracing - GV-N3050WF2OCV2-6GD",Gigabyte,2138.98,1925.08,2138.98,True,KaBuM!
+2026-11-13,1085854,Cabo Extensor Para Gpu ARGB 8 Pinos 2x8 Pinos 6w 81 LEDs,Outros,115.31,115.31,0,True,CELLFY
+2026-11-13,580126,"AMD Radeon Rx 580, 8GB, GDDR5, 256bits - Rx580-8gd5",Outros,1349.99,1349.99,0,True,Oficina dos Bits
+2026-11-13,993624,"Placa De Vídeo Gigabyte Amd Radeon Rx 9070 Xt Gaming, 16gb, Gddr6, Fsr, Ray Tracing, Gv-r9070xtgaming-16gd",Gigabyte,7198.8,7198.8,0,True,SILICON GROUP
+2026-11-13,688365,Placa De Video Pny Quadro T1000 4gb Ddr6 128bits- Vcnt1000-pb,Pny,5995,5995,0,True,CONCORDIA INFORMATICA
+2026-11-13,1037499,Cabo Argn Para Gpu 24 Pinos RGB | Compatível Aura Sync Mystuc Light | 80 LEDs,Outros,79.9,79.9,0,True,MR ELETRÔNICOS
+2026-11-13,1005586,Placa De Captura De Vídeo Hagibis 100w Pd Usb 30 Cinza,Outros,328,328,0,True,ELASHOPP.COM
+2026-11-13,1028643,Suporte Para Placa De Vídeo Ajustável Mulher Asustador,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,677488,"Suporte Para Placa De Vídeo (GPU) GH3 PRO, Coolmoon, Ajuste Vertical, Branca, ARGB 5v, Com Visor de Temperatura e LED Infinito",Outros,198.85,198.85,0,True,RURT STORE
+2026-11-13,677489,"Suporte Para Placa De Vídeo (GPU) GH3 PRO, Coolmoon, Ajuste Vertical, Preto, ARGB 5v, Com Visor de Temperatura e LED Infinito",Outros,198.85,198.85,0,True,RURT STORE
+2026-11-13,909695,Placa De Video Galax Geforce RTX 5060 Ti 1-click Oc Classic 8GB Gddr7 128-bit - 56isn8mdabcc,Galax,4500,4050,0,True,CASA DO PROVEDOR
+2026-11-13,726589,Placa De Video Gainward RTX 5070 Phoenix Gs 12gb Gddr7 192 Bits - Ne75070t19k9-gb2050x,Gainward,7774.99,7774.99,0,True,TERABYTE
+2026-11-13,991784,Gpu Powercolor Amd Radeon Rx 7600 8GB Gddr6 128bits 8g-f/v2,Power,2799.99,2799.99,0,True,FrancaVirtual Informática
+2026-11-13,466251,"Placa De Vídeo Nvidia Msi Gt 710 2G DDR3, 64 Bits Low Profile - 912-v809-2024",MSI,429.99,429.99,0,True,TERABYTE
+2026-11-13,731030,Placa De Vídeo PCyes RTX 3050 Projeto Edge 6gb Gddr6 96 Bits - PvRTX30506blpe,PCYES,1999,1699.15,0,True,Net Alfa Computadores
+2026-11-13,1063351,Placa De Vídeo Radeon R5 230 2gb Ddr3 PCi Express X16 | HDMI Dvi Vga | Aitek Delta-r5 230,Aitek,307.68,307.68,0,True,MR ELETRÔNICOS
+2026-11-13,728352,Gpu Nvidia Geforce Gt730 2gb Ddr5 128 Bit Projeto Edge Low Profile Single Fan - Pvgt730gb2pe,PCYES,508.47,508.47,0,True,MG INFORMATICA
+2026-11-13,885283,Placa De Video Zotac RTX 5080 Solid Core Oc 16gb Gddr7 256bits - Zt-b50800j2-10p,Zotac,13472.63,12799,0,True,EASYTECH TECNOLOGIA COMERCIO E SERVICOS LTDA
+2026-11-13,288865,"Placa de Vídeo PCYes AMD Radeon R7200 Series R7240, 2GB DDR5",PCYES,547.79,547.79,0,True,DIGITUSUL
+2026-11-13,728003,"Placa De Vídeo Gamer Gt740, GDDR5 4gb, Clock 993mhz, PCi-e 3.0x16, 128bits, HDMI Dvi Vga, Alto Desempenho",Aitek,479.99,479.99,0,True,CELLFY
+2026-11-13,1051721,Placa De Video Winfox Gt730 2gb Ddr3 128bits Hmi Dvi Vga,Generico,308.53,308.53,0,True,A.CIOLI
+2026-11-13,729052,Placa De Vídeo Gigabyte Geforce RTX 3050 Windforce Oc V2 6gb Gddr6 96 Bits - Gv-n3050wf2ocv2-6gd,Gigabyte,2092.9,1967.33,0,True,GIGANTEC
+2026-11-13,918004,"Placa De Vídeo Asus Prime Nvidia Geforce RTX 5060 Ti Oc, 8GB, Gddr7, Dlss, Ray Tracing, Prime-RTX5060ti-o8g",ASUS,5644.59,5644.59,0,True,Bits & Bytes
+2026-11-13,1070111,"Placa De Vídeo Biostar Radeon RX 580 2048SP White, 8GB GDDR5, PCie 3.0, 256 Bit, HDMI, DVI, Displayport",Biostar,1449.9,1449.9,0,True,Johnn Info Gamer
+2026-11-13,736834,Placa De Vídeo Gigabyte Amd Radeon Rx 9070 Xt Gaming Oc 16gb Gddr6 256bit,Gigabyte,7909.9,7435.31,0,True,GIGANTEC
+2026-11-13,999970,Placa De Video Pny Nvidia Quadro RTX Pro4000 Blackwell Wkstation 24gb Gddr7 192bit VcnRTXpro4000b-pb,Pny,24799,24799,0,True,Infotecdez importados USA
+2026-11-13,268456,"Placa de Vídeo Asus NVIDIA GeForce GTX 1660 TI O6G EVO OC TUF Gaming, 6GB GDDR6, Preto - 90YV0CT7-M0NA00",ASUS,2898,2898,0,True,INFOTEC INFO
+2026-11-13,498052,"Placa De Video Star 4GB Hd7670, 128bits, DDR5, Low Profile, Hd7670-graphic",STAR,409.88,389.39,0,True,Alfa Mundo Digital
+2026-11-13,503487,"Placa De Vídeo Aitek GT210, 1GB, DDR3, VGA/HDMI, 500MHz",Aitek,157.99,157.99,0,True,CELLFY
+2026-11-13,1053106,Suporte Para Placa De Vídeo Gpu Foguete Com 5 Astronaltas (ajustavel 90mm X 145mm)(g),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,271841,"Placa de Vídeo PCYes AMD GPU HD 6570, 2GB GDDR3, 128 Bits, ATX, Single FAN - PJ6570HDR3SF",PCYES,613.76,613.76,0,True,AQUI QUE TEM
+2026-11-13,210818,"Placa de Vídeo Palit NVIDIA GeForce RTX 3080 Gamingpro, 10GB GDDR6X - NED3080019IA-132AA",PALIT,6999.99,6999.99,0,True,Play Jogos e Diversões LTDA
+2026-11-13,505870,"Suporte Para Placa De Vídeo Ntc R10, Branco - R10WHT",NTC,22.9,21.53,0,True,GIGANTEC
+2026-11-13,726496,Placa De Video Gamer Nvidia GTX1660 SUPER 6gb 192bits Gddr6 HDMI,Outros,1506.7,1431.37,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1028642,Suporte Para Placa De Vídeo Ajustável Guerreiro,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1078319,Placa Mãe B85 LGA  1150 Intel i3 i5 i7 4ª Geração Ddr3 16gb M.2 HDMI Usb 3.0 Gigabit Micro-atx Aitek Delta-b85m2k,Aitek,333.34,333.34,0,True,KEEDI ELETRONICOS
+2026-11-13,697295,Placa De Video Nvidia Revenger Gtx 1050ti 4gb Ram Ddr5,Outros,1555.57,1400.01,0,True,KEEDI ELETRONICOS
+2026-11-13,1056213,Suporte Para Placa De Vídeo Gpu Gatinhos Fofos (ajustável 90mm X 140mm)(g),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,302344,"Placa de Vídeo Gigabyte NVIDIA GeForce RTX 2060 D6, 6GB GDDR6, 192 Bits",Gigabyte,4989.99,4989.99,0,True,Oficina dos Bits
+2026-11-13,264859,"Placa de Vídeo PNY NVIDIA GeForce Quadro Turing T1000, 4GB GDDR6, 128 Bits, DP - VCNT1000-PB",Pny,3154.54,2839.09,0,True,HD Store Oficial
+2026-11-13,573378,Suporte Para Placa De Video Com Iluminacao ARGB - Mca-u000r-agsbtg-00.,Outros,354.9,347.8,0,True,BERGA ELETRO
+2026-11-13,879371,Placa De Vídeo Asrock Rx 9070 Xt Steel Legend Dark 16gb Gddr6 256bits - 90-ga5vzz-00uanf,ASRock,8017.9,7536.83,0,True,GIGANTEC
+2026-11-13,253246,"Placa de Vídeo PNY NVIDIA GeForce Quadro T400, 2GB GDDR6, 64 Bits - VCNT400-PB",Pny,1365.98,1229.38,0,True,STI COMPUTADORES
+2026-11-13,875474,"Gpu Msi RTX 5070 12g Shadow 2x Oc, Gddr7, 192-bits, 3x Dp / 1x HDMI - G5070-12s2c",MSI,8676.71,8676.71,0,True,PRIMETEK
+2026-11-13,951242,Placa De Vídeo Msi Nvidia Geforce RTX 5050 Shadow 8GB Gdrr6 128 Bits - 912-v538-008,MSI,3313.84,3313.84,0,True,DIGITUSUL
+2026-11-13,420701,"Placa De Vídeo BRX Geforce Gt730, 4GB, 128 Bits, DDR3",BRX,399.89,399.89,0,True,ALLIGATOR SHOP  COMERCIO
+2026-11-13,655595,"Placa De Vídeo Vxpro Radeon Rx 550, 4gb GDDR5 - Vxrx550",Vxpro,823.37,642.23,0,True,BFTECH
+2026-11-13,662252,Placa De Vídeo Nvidia Geforce Vxpro Gt 740 4gb Ddr3 64 Bits Low Profile,Vxpro,369.99,369.99,0,True,LUCIDATA
+2026-11-13,1032763,Placa de Vídeo RX580 8GB GDDR5 RGB Branca | Dual Fan | HDMI/DVI/VGA | PC Gamer,Aitek,1499.9,1499.9,0,True,MR ELETRÔNICOS
+2026-11-13,663243,GPU GT730 GFORCE PCI-E 4GB DDR3 1284BITS JOINWIN,Outros,639,607.05,0,True,MICRODIGI INFORMATICA
+2026-11-13,347012,"Placa de Vídeo Palit NVIDIA GeForce RTX 3050 Dual, 8GB GDDR6, LHR, DLSS, Ray Tracing - NE63050019P1",PALIT,4521.82,4521.82,0,True,AQUI QUE TEM
+2026-11-13,857026,Placa De Vídeo Nvidia Geforce Msi RTX5060ti 8GB Gddr7 128bits Ventus 2x Oc Plus 912-v536-024,MSI,4403,4403,0,True,ZOING BRASIL
+2026-11-13,1058197,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 5060 Ti Windforce Max Oc, 8GB, Gddr7, Dlss, Ray Tracing, Gv-n506twf2max Oc-8gd",Gigabyte,7772.49,7772.49,0,True,TERABYTE
+2026-11-13,1077378,Placa de Vídeo PELADN GeForce RTX 4060 8GD6 LOONGSCALE 8GB,Outros,3032.6,3032.6,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1028166,Suporte Para Placa De Vídeo Ajustável,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1062236,Placa De Video R5 230 PCyes 2gb Ddr3 64 Bits,PCYES,325.44,292.9,0,True,PRIMETEK
+2026-11-13,573253,Placa De Video Winfox G210 1gb G210-1gd3 Ddr3 Box,Generico,152.49,141.82,0,True,A.CIOLI
+2026-11-13,1051533,Placa De Vídeo Amd Radeon Rx 580 8GB GDDR5 256bits - Mancer Mcr-rx580-x,Outros,1379.99,1379.99,0,True,Oficina dos Bits
+2026-11-13,515059,"Placa De Vídeo BRX Geforce GTX 750, 4GB, 128 Bits",BRX,734.9,587.92,0,True,Grupo Lees
+2026-11-13,543498,"Placa De Vídeo RTX 3060 Gigabyte Gaming Oc, 8GB, GDDR6, 128bits",Gigabyte,3052.5,3052.5,3052.5,True,BFTECH
+2026-11-13,1030540,Gpu Nvidia Geforce Gtx 1060 6gb GDDR5 192 Bits Vinik  Gpuvk10606gb2f,Vinik,1239,1239,0,True,UP DISTRIBUIDORA
+2026-11-13,934699,Placa De Video Palit Geforce RTX 5070 Infinity 3 12gb Gddr7 192bits Ne75070019k9-gb2050s,Outros,7729.9,6956.91,0,True,TNTINFO
+2026-11-13,990128,Placa De Video 1gb Ddr3 128 Bits Delta Gt240 Low Profile,Aitek,159.99,159.99,0,True,CELLFY
+2026-11-13,510975,"Placa De Vídeo RX 6750 XT Mech 2x 12G V1 Radeon, 12GB, GDDR6, Freesync, Dual Fan",RX,6999.11,6299.2,0,True,CREATIVE TECNOLOGIA
+2026-11-13,458704,"Placa De Vídeo Pcyes Nvidia Geforce Gtx 1050 Ti, 4 GB Gddr5, 128bits, Dual Fan, Graffiti Series",PCYES,1449.9,1449.9,0,True,DIGITUSUL
+2026-11-13,288418,"Placa de Vídeo PCYes NVIDIA GeForce GTX 750, 2GB GDDR5, 128 Bits, Dual-FAN",PCYES,1310.75,1310.75,0,True,AQUI QUE TEM
+2026-11-13,956286,"Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5060 Twin Edge Oc White Edition, 8GB, Gddr7, Dlss, Ray Tracing, Zt-b50600q-10m",Zotac,3724.99,3724.99,0,True,TERABYTE
+2026-11-13,1022775,Placa De Vídeo Nvidia Geforce RTX 2060 Super 8GB Gddr6 Revenger,Outros,2456.5,2210.85,0,True,KEEDI ELETRONICOS
+2026-11-13,505868,"Suporte Para Placa De Vídeo Ntc H21, Preto - H21BLK",NTC,37.9,35.63,0,True,GIGANTEC
+2026-11-13,881642,Placa De Video Gigabyte RTX 5060 Ti Eagle Oc 8GB Gddr7 128bits - Gv-n506teagle Oc-8gd,Gigabyte,4756.9,4471.49,0,True,GIGANTEC
+2026-11-13,1053108,Suporte Para Placa De Vídeo Alienigenas (ajustavel 90mm X 130mm)(g),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1000485,"Placa de Vídeo Gigabyte RX 9070 XT Gaming OC ICE AMD Radeon, 16GB, GDDR6, RGB, Branca - GV-R907XGAMINGOCICE-16GD",Gigabyte,8645.38,7780.84,8645.38,True,KaBuM!
+2026-11-13,753245,Placa De Video Gigabyte RTX 5070 Ti Aero Oc 16gb Gddr7 256 Bits Gv-n507taero Oc-16gd,Gigabyte,18950.16,18950.16,0,True,Bits & Bytes
+2026-11-13,520115,"Suporte para Placa De Vídeo Coolmoon, LED ARGB 5V 3 Pinos, 280mm, Preto, Controlável",Outros,119.9,117.5,0,True,RURT STORE
+2026-11-13,1064263,Placa De Video Kinology Radeon Rx 580 2048sp-d5 8GB GDDR5,Outros,950,950,0,True,TECNOLODASPY INFO
+2026-11-13,717772,"Placa de Vídeo Inno3D RTX 5070 Twin X2 OC NVIDIA GeForce, 12GB, GDDR7, 2542MHz, Blackwell, Ray Tracing, DLSS 4 - N50702-12D7X-195064N",Inno3d,7954.53,6999.99,7954.53,True,KaBuM!
+2026-11-13,903609,Placa Vídeo Asus Rx 9060 Xt Tuf Gaming 16gb Gddr6 Oc,ASUS,4944.99,4944.99,0,True,TERABYTE
+2026-11-13,883147,Placa De Vídeo Gigabyte RTX 5070 Eagle Oc Sff 12gb Gddr7 192bits - Gv-n5070eagle Oc-12gd,Gigabyte,8265,8265,0,True,Cia PC
+2026-11-13,947244,"Vga Geforce 4gb Gt730, Vinik Ddr3, 128 Bits, Vga/dvi/hdmi, Low Profile, Single Fan - Gpuvk7304gblp0h2",Vinik,394.43,307.66,0,True,BFTECH
+2026-11-13,594208,Placa De Vídeo Quadro Pny Nvidia A1000 8GB Gddr6 128 Bits - VcnRTXa1000atx-pb,Pny,5528.16,4975.34,5528.16,True,HD Store Oficial
+2026-11-13,1069582,Placa De Vídeo G210 1gb Leader Tech Low Profile,Leader tech,152.03,144.43,0,True,Cavuca
+2026-11-13,886159,"Placa De Vídeo Palit Geforce RTX 5060 Infinity 3, 8GB Gddr7, 128bits, Dlss4, Ray Tracing, Triple Fan - Ne75060019p1-gb2063s",PALIT,4109.99,4109.99,0,True,LUCIDATA
+2026-11-13,347013,"Placa de Vídeo Palit NVIDIA GeForce GT 710, 2GB DDR3, 64 Bits, HDMI/VGA/DVI - NEAT7100HD46-2080F",PALIT,339.2,295.1,0,True,SGMAX TECNOLOGIA E COMERCIO
+2026-11-13,579784,"Placa de Vídeo Revenger Nvidia GeForce GT730, 4GB DDR3, PCIe",Outros,824.99,824.99,0,True,SOBRALTECH
+2026-11-13,1077140,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, Amd Branco",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,505871,"Suporte Para Placa De Vídeo Ntc H21, Branco - H21WHT",NTC,41.9,39.39,0,True,GIGANTEC
+2026-11-13,903512,Placa De Vídeo Revenger Rx 550 Radeon 4gb GDDR5 128 Bits -,Outros,1444.46,1300.01,0,True,KEEDI ELETRONICOS
+2026-11-13,1078652,Placa De Video Pny Nvidia Quadro RTX 2000 Ada 16gb Gddr6 128bits VcnRTX2000ada-b,Pny,7143.98,6429.58,7143.98,True,HD Store Oficial
+2026-11-13,887382,"Placa De Vídeo Asus Dual Nvidia Geforce RTX 5060 Oc, 8GB, Gddr7, Dlss, Ray Tracing, Dual-RTX5060-o8g",ASUS,7488,7488,0,True,TERABYTE
+2026-11-13,715900,Placa De Vídeo PCie Gt730 4gb PCwinmax Ddr3,PCWINMAX,312.85,312.85,0,True,Rei Batuta Info
+2026-11-13,1078332,Placa De Video Amd Radeon Rx 7600 8GB Gddr6 128 Bits Projeto Edge Pvr760008GBpedfv02 - PCyes,PCYES,2661.71,2315.69,0,True,Kometa
+2026-11-13,928107,Placa De Vídeo Asrock Rx 9070 16gb 256bits - 90-ga5nzz-00uanf,ASRock,6499.9,6499.9,0,True,Johnn Info Gamer
+2026-11-13,277927,"Placa de Vídeo Afox NVIDIA GeForce GT240, 1024 MB, PCI Express 2.0, VGA, HDMI, DVI",Afox,197.2,177.48,0,True,Rei Batuta
+2026-11-13,573274,"Placa De Vídeo Pny Nvidia Quadro RTX 2000 Ada Generation, 16gb Gddr6, 128bits - VcnRTX2000ada-pb",Pny,8091,7120.08,0,True,Cia PC
+2026-11-13,1058239,Suporte Para Placa De Vídeo Gpu Aste Preto (ajustável 22mm X 190mm),Outros,19.9,19.9,0,True,INFOTEC 3D
+2026-11-13,117364,"Placa de Vídeo PCYes NVIDIA GeForce GT 740, 4GB DDR5, 128 Bits - PA740GT12804D5FZ",PCYES,976.12,976.12,0,True,DIGITUSUL
+2026-11-13,885284,"Placa De Vídeo Geforce Zotac RTX 5070 Ti Solid Sff Oc, 16gb Gddr7, 256-bits, Zt-b50710j3-10p",Zotac,10999.9,9899.91,0,True,Victory
+2026-11-13,1049713,Suporte Para Placa De Vídeo Ajustável Viking,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1053109,Suporte Para Placa De Vídeos Gpu Alienigenas (ajustavel 55mm X 95mm)(p),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,990082,"Adaptador Placa De Vídeo (GPU) 16 Pinos, Curvo 90 Graus PCI-E 5.0 12VHPWR, 4 Pinos (lado de cima), Preto",Outros,88.9,88.9,0,True,RURT STORE
+2026-11-13,990083,"Adaptador Placa De Vídeo (GPU) 16 Pinos, Curvo 90 Graus PCI-E 5.0 12VHPWR, 4 Pinos (lado de baixo), Preto",Outros,88.9,88.9,0,True,RURT STORE
+2026-11-13,727169,Placa De Vídeo Gigabyte Nvidia Geforce RTX 5080 Aero Oc 16gb Gddr7 256bits,Gigabyte,23966.36,23966.36,0,True,Bits & Bytes
+2026-11-13,693864,Placa De Vídeo RTX 3070 G/pro 8GB Gddr6 256 Bits-graffiti .,PCYES,3322.32,3322.32,0,True,Premium Comp
+2026-11-13,881643,Placa De Vídeo Gigabyte RTX 5060 Eagle Oc  8GB Gddr7 128bits- Gv-n5060eagleoc 8gd,Gigabyte,4076.9,3832.29,0,True,GIGANTEC
+2026-11-13,1035377,Placa De Video Amd Radeon Rx 560 4gb 128bits GDDR5 HDMI Gamer,Clanm,797.8,757.91,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1050684,Placa De Video Abit 4gb Gtx 1050ti Ddr5 128bit Dp/hdmi/dvi,Abit,1219.35,951.09,0,True,BFTECH
+2026-11-13,381206,"Placa de Vídeo PNY NVIDIA GeForce Quadro RTX A4000, 16GB, 256 Bits",Pny,13150.57,13150.57,0,True,MG INFORMATICA
+2026-11-13,753243,Placa De Vídeo Gigabyte Geforce RTX 5070 Ti Gaming Oc 16gb Gddr7 256 Bits - Gv-n507tgaming Oc-16gd,Gigabyte,15999.98,14399.98,0,True,STI COMPUTADORES
+2026-11-13,1076094,Placa Vídeo 8GB Rx590 Star GDDR5 256bits Dual Fan Direct 12,STAR,1174.9,1174.9,0,True,EQUIPECLUB
+2026-11-13,665199,Placa De Video  Fti  Nvidia Geforce Gt 730  2gb Ddr3,Nvidia,398,398,0,True,FTI BRASIL LTDA.
+2026-11-13,1049712,Suporte Para Placa De Vídeo Ajustável Baby Yoda,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1087182,"Placa De Vídeo Colorful Nvidia Geforce RTX 5070 Ti Battle Ax Sff, 16gb, Gddr7, Dlss, Ray Tracing",Colorful,11994.99,11994.99,0,True,TERABYTE
+2026-11-13,1088292,"Placa De Vídeo Vinik Amd Radeon Rx 580 2048sp, 8GB, GDDR5, 256 Bit, Dual Fan, Gpuvk580v3h8GB2f",Vinik,1120.13,974.51,0,True,Kometa
+2026-11-13,1062611,Pr- Gpu Nvidia Geforce Gt 610 Gdd3 2gb 64bit Single Fan - Low Profile - Pa610gt6402d3lp,PCYES,403.52,403.52,0,True,AQUI QUE TEM
+2026-11-13,1077062,Placa Video 1gb Gt220 Star Ddr3 64bits Dvi HDMI Vga,OEM,214.9,214.9,0,True,EQUIPECLUB
+2026-11-13,1087180,"Placa De Vídeo Colorful Igame Nvidia Geforce RTX 5070 Ti Ultra Oc Sff, 16gb, Gddr7, Dlss, Ray Tracing",Colorful,11994.99,11994.99,0,True,TERABYTE
+2026-11-13,1075550,Placa De Vídeo Peladn Rtx 3050 Geforce 8gb 128 Bits Gddr6,Outros,2038.5,2038.5,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1051542,Placa De Vídeo Geforce RTX 3050 6gb Gddr6 96bits - Stormx - Palit Ne63050018je-1072f,PALIT,2879.99,2879.99,0,True,Oficina dos Bits
+2026-11-13,1009158,Placa De Vídeo Geforce RTX 5080 16gb Gddr7 256bits - Dlss 4 - Windforce Sff - Gigabyte,Gigabyte,20909.99,20909.99,0,True,Oficina dos Bits
+2026-11-13,952542,"Suporte Placa De Vídeo Ajustável De 7 A 12,5cm Radeon Branco",Mercadao Da Informatica,25.04,25.04,0,True,MERCADÃO DA INFORMATICA
+2026-11-13,1070462,"Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5070 Ti Solid Sff Oc, 16gb, Gddr7, Dlss, Ray Tracing, Zt-b50710j3-10a",Zotac,12750.33,11475.3,0,True,TIBURON
+2026-11-13,1078267,"Placa de Vídeo Zotac Gaming GeForce RTX 3050 Twin Edge OC NVIDIA, 6GB GDDR6, 96-bits, Dual Fan, Ray Tracing, DLSS - ZT-A30510H-10L",Zotac,1999.99,1799.99,1999.99,True,KaBuM!
+2026-11-13,1063352,Placa De Vídeo Gt610 2gb Ddr3 PCi Express X16 | HDMI Dvi Vga | Aitek Delta-gt610,Aitek,329.9,329.9,0,True,MR ELETRÔNICOS
+2026-11-13,1072429,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, Redragon Branco",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,710704,Placa De Vídeo Arktek Cyclops Gaming 1gb Geforce Gt610 Ddr3 - Akn610d3s1gl1,Arktek,297.67,297.67,0,True,SHOPNEXT
+2026-11-13,907752,Placa De Vídeo Msi Geforce RTX 5070 12g Ventus 2x Oc G5070-12v2c,Nvidia,11621.61,11621.61,0,True,VIXE E-COMMERCE
+2026-11-13,1083686,Placa De Video 1gb Gt220 Ddr3 128bit Vgahdmi Dvi Low Profile,GOLINE,259.99,259.99,0,True,MM SANTOS DO BRASIL
+2026-11-13,1078282,"Placa de Vídeo Gainward RTX 5070 Phoenix GS NVIDIA GeForce, 12GB GDDR7, 192-bits, Triple Fan, DLSS 4 - NE75070T19K9-GB2050X",Gainward,7777.77,6999.99,7777.77,True,KaBuM!
+2026-11-13,386789,Placa De Vídeo Goline Gt 210 1GB-64 Bits / DDR3 Hdmi- Vga-dvi.,GOLINE,169.99,169.99,0,True,MM SANTOS DO BRASIL
+2026-11-13,1072511,Suporte Para Placa De Vídeo Vírus 54mm X 80mm (p),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1091983,Placa De Vídeo Zotac Geforce RTX 5070 Ti Solid Sff Oc 16gb Gddr7,Zotac,23024.43,23024.43,0,True,VIXE E-COMMERCE
+2026-11-13,1091985,Placa De Vídeo Zotac Geforce RTX 5060 Ti 8GB Gddr7 Twin Edge,Zotac,7207.2,7207.2,0,True,VIXE E-COMMERCE
+2026-11-13,1091980,Placa De Vídeo Asus Prime Geforce RTX 5070 12gb Gddr7,ASUS,11647.35,11647.35,0,True,VIXE E-COMMERCE
+2026-11-13,1091981,Placa De Vídeo Msi Geforce RTX 5070 Ti Frieren Oc Edition 16gb Gddr7,MSI,18005.13,18005.13,0,True,VIXE E-COMMERCE
+2026-11-13,1049922,Placa De Vídeo Nvidia Geforce Gt730 4gb Ddr3 128 Bits HDMI Dvi Vga Clanm,Clanm,367.77,367.77,0,True,TEC PRINT
+2026-11-13,1086061,"Placa de Vídeo Zotac Gaming GeForce RTX 5080 Solid Core OC NVIDIA GeForce, 16GB, GDDR7, 256-bits, Triple Fan, DLSS 4 - ZT-B50800J2-10A",Zotac,18888.88,16999.99,18888.88,True,KaBuM!
+2026-11-13,779499,Placa De Vídeo Vxpro Nvidia Geforce Gt730 4gb Ddr3 128 Bits Lp - Gt730lp-4g,Vxpro,335.52,301.97,0,True,TIBURON
+2026-11-13,1028655,PLACA DE VÍDEO VGA PCI EXP. 6GB/192BITS GTX 1660 SUPER PELADN,Outros,1506.7,1431.37,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1071575,"Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5070 Twin Edge Oc, 12gb, Gddr7, Dlss, Ray Tracing, Zt-b50700h-10a",Zotac,6313.9,6187.62,0,True,BERGA ELETRO
+2026-11-13,934697,Placa De Video Palit Geforce RTX 5060 Dual 8GB Gddr7 128bits Ne75060019p1-gb2063d,Outros,3679,3679,0,True,UP DISTRIBUIDORA
+2026-11-13,1076093,"Placa De Video Asus Geforce RTX 5070 Prime Oc Edition, 12gb, Gddr7, 192-bit, Prime-RTX5070-o12g",ASUS,8999.9,8279.91,0,True,EFACINI
+2026-11-13,1069405,Placa De Vídeo Amd Radeon Rx560 4gb GDDR5 128 Bits HDMI Displayport Dvi PCie 3.0 X8 Gamer Aitek,Aitek,1018.53,1018.53,0,True,KEEDI ELETRONICOS
+2026-11-13,1088220,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 5060 Ti Eagle Max Oc, 16gb, Gddr7, Dlss, Ray Tracing, Gv-n506teaglemax Oc-16gd",Gigabyte,6679.99,6679.99,0,True,TERABYTE
+2026-11-13,1087174,"Placa De Vídeo Colorful Nvidia Geforce RTX 5070 Gaming, 12gb-v, Gddr7, Dlss, Ray Tracing",Colorful,7904.99,7904.99,0,True,TERABYTE
+2026-11-13,1087175,"Placa De Vídeo Igame Nvidia Geforce RTX 5060 Ti Utra Duo Oc, 8GB-v, Gddr7, Dlss, Ray Tracing",Colorful,5099.99,5099.99,0,True,TERABYTE
+2026-11-13,1069581,"Placa De Vídeo Asus Radeon Rx 9070 Gre, 12gb Gddr6",ASUS,5652.03,5369.43,0,True,Cavuca
+2026-11-13,712426,Placa De Video Amd Radeon Rx 6800xt 16gb Gddr6 256 Bits Triple-fan Graffiti Series - Pjrx6800gr616gbgs,PCYES,8748.25,8748.25,0,True,AQUI QUE TEM
+2026-11-13,1072909,"Placa De Vídeo PCyes Nvidia Geforce Gt 740, 2gb, GDDR5, 128-bit, Pvgt740gb2pe",PCYES,499.99,499.99,0,True,IPTVELETRO
+2026-11-13,1072907,Placa De Video Gpu Geforce Gt740 2gb GDDR5 128 Bit Single Fan Projeto Edge,Nvidia,499.99,499.99,0,True,IPTVELETRO
+2026-11-13,1051733,Placa De Video Kinology 8GB Rx580 Ddr5 256bits,Generico,1198.49,1114.6,0,True,A.CIOLI
+2026-11-13,1046564,Placa De Video Gainward Geforce RTX3050 6gb Gddr6 Pegasus 96bits Ne63050018je-1072e,Gainward,2184.7,1966.23,2184.7,True,HD Store Oficial
+2026-11-13,1080930,Placa De Video Gamer Nvidia RTX 2060 6gb 192bits Gddr6 HDMI,Outros,2176,2176,0,True,PRIME SHOCK COMERCIO ELETRONICO
+2026-11-13,1077132,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, Nvidia Branco",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,1077139,"Suporte Placa De Video Gpu Ajustável 7cm-11,5cm, Redragon Preto",Outros,24.99,24.99,0,True,Evolutec 3D
+2026-11-13,1064891,Placa De Vídeo Aitek Delta-r5 220 2gb Ddr3 PCi Express HDMI Vga Dvi,Aitek,319.9,319.9,0,True,MR ELETRÔNICOS
+2026-11-13,1062157,"Placa De Vídeo Gigabyte Amd Radeon Rx 9070 Xt Gaming Oc Ice, 16gb, Gddr6, Fsr, Ray Tracing, Gv-r907xgamingocice-16gd",Gigabyte,14937.51,14937.51,0,True,TERABYTE
+2026-11-13,997061,"Placa de Vídeo PNY RTX 5060 Overclocked NVIDIA GeForce Dual Fan, 8GB, GDDR7, 128-bit, DLSS 4.5, Preto - VCG50608DFXPB1-O",Pny,4444.43,3999.99,4444.43,True,KaBuM!
+2026-11-13,1058238,Suporte Para Placa De Video Gpu Abelhinhas (ajustavel 90mm X 150mm)(g),Outros,39.9,39.9,0,True,INFOTEC 3D
+2026-11-13,1073304,Placa De Vídeo Gpu Brx Rx 580 8GB 256 Bits 2048sp Dual Fan,BRX,1206.37,1206.37,0,True,LV - TECNOLOG
+2026-11-13,1087176,"Placa De Vídeo Colorful Igame Nvidia Geforce RTX 5080 Ultra Oc, 16gb, Gddr7, Dlss, Ray Tracing",Colorful,14944.99,14944.99,0,True,TERABYTE
+2026-11-13,1063804,Placa De Video RTX 3050 6gb Twin Edge Oc Gddr6 96 Bits Zotac,Zotac,1721.11,1635.05,0,True,CONCORDIA INFORMATICA
+2026-11-13,1008787,"Placa De Vídeo PCyes Nvidia Geforce RTX 5060, 8GB, Gddr7, Dlss, Ray Tracing, PvRTX5060b2f128",PCYES,3289,3289,0,True,MPU INFORMÁTICA
+2026-11-13,1091856,"Placa De Vídeo Gigabyte Aorus Nvidia Geforce RTX 5070 Infinity, 12gb, Gddr7, Dlss, Ray Tracing, Gv-n5070aorus If-12gd",Gigabyte,13500.63,13500.63,0,True,VIXE E-COMMERCE
+2026-11-13,1081769,"Placa De Vídeo Asrock Amd Radeon Rx 9070 Gre Steel Legend Dark Oc, 12gb, Gddr6, Fsr, Ray Tracing, 90-ga5wzz-00uanf",ASRock,5404.99,5404.99,0,True,TERABYTE
+2026-11-13,928103,"Placa De Vídeo Inno3d Nvidia Geforce RTX 5060 Ti Twin X2 Oc White, 8GB, Gddr7, Dlss, Ray Tracing, N506t2-08d7x-193075w",Inno3d,4369.99,4369.99,0,True,TERABYTE
+2026-11-13,1048602,Placa De Video Zotac Geforce RTX 3050 Twin Edge Oc 6gb Gddr6 96 Bits - Zt-30510h-10a,Zotac,1750,1750,0,True,BAURUINFO
+2026-11-13,1084240,"Placa De Video Galax Geforce 5070 Ti 1-click Oc 2x, 16gb, Gddr7, 256-bits, Dlss4, 57izn6mddm2x",Galax,9399.99,9399.99,0,True,PATOLOCO
+2026-11-13,1088222,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 3060 Windforce Oc, 12gb Gddr6, Dlss, Ray Tracing, Gv-n3060wf2oc-12gd",Gigabyte,3759.99,3759.99,0,True,TERABYTE
+2026-11-13,951841,Espelho Low Profile Perfil Baixo Para Nvidia Quadro P400 E T400,Outros,80.41,80.41,0,True,sulstore.com.br
+2026-11-13,1032395,Placa De Video R7 350 2gb Ddr5 1080p 128bits Afox,Afox,823,823,0,True,REDE MATRIX
+2026-11-13,1077061,Placa Video 2gb R5 230 Star Ddr3 64bits Vga HDMI Dvi,STAR,259.9,259.9,0,True,EQUIPECLUB
+2026-11-13,1049711,Suporte Para Placa De Vídeo Ajustável Darkgirls,Outros,39.9,39.9,0,True,CKG3D SHOP
+2026-11-13,1087179,"Placa De Vídeo Igame Nvidia Geforce RTX 5070 Utra Oc, 12gb-v, Gddr7, Dlss, Ray Tracing",Colorful,8189.99,8189.99,0,True,TERABYTE
+2026-11-13,1072910,Placa De Vídeo PCyes Nvidia Gt 740 2gb GDDR5,Nvidia,499.99,499.99,0,True,IPTVELETRO
+2026-11-13,1072908,Placa Gráfica PCyes Nvidia Gt 740 2gb GDDR5 128 Bits HDMI Vga Dvi,PCYES,499.99,499.99,0,True,IPTVELETRO
+2026-11-13,1072911,Gpu Nvidia Geforce Gt740 2gb GDDR5 128 Bit Single Fan Projeto Edge - Pvgt740gb2pe,PCYES,499.99,499.99,0,True,IPTVELETRO
+2026-11-13,1088291,Placa De Video Radeon R5 230 2gb Ddr3 64 Bit Low Profile - Gpuvkr52302gbh3 - Vinik,Vinik,348.25,348.25,0,True,AQUI QUE TEM
+2026-11-13,1087480,"Placa De Vídeo Inno3d Nvidia Geforce Gt 730, 4gb, SDDR3, 64bit, N73p-bsdv-m5bx",Inno3d,614.99,614.99,0,True,TERABYTE
+2026-11-13,1042573,"Placa De Vídeo Vxpro Radeon Rx 580, 8GB - Rx580-8gd5 Oem",Vx Pro,1309.32,1309.32,0,True,IBYTE COMPUTADORES
+2026-11-13,1062609,Pr- Gpu Hd 6570 4gb GDDR5 128 Bits Single Fan - Pj6570hdr5sf4gb,PCYES,879.29,879.29,0,True,AQUI QUE TEM
+2026-11-13,1088221,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 5060 Ti Aero Oc, 16gb, Gddr7, Dlss, Ray Tracing, Gv-n506taero Oc-16gd",Gigabyte,6894.99,6894.99,0,True,TERABYTE
+2026-11-13,1085248,Placa De Vídeo Galax Geforce RTX 5060 Ti 1-Click Oc V2 8GB 8GB Gddr7 128-bit - 56isn8mdeher,Galax,4199.99,4199.99,0,True,PATOLOCO
+2026-11-13,1063365,Suporte Para Placa De Vídeo Gpu Aitek Delta-s713 RGB Ajustável Magnético,Aitek,65,65,0,True,MR ELETRÔNICOS
+2026-11-13,1089151,Placa De Video Winmax 4gb Gt1030 Ddr4 64bits,Generico,842.39,842.39,0,True,A.CIOLI
+2026-11-13,640283,Placa De Video Brx Rx 580 8GB GDDR5 256 Bit,BRX,1319.09,1253.14,0,True,MERCADÃO DA INFORMATICA
+2026-11-13,946336,Jetson Agx Xavier 64gb Module Ia Nvidia,Nvidia,25649,25649,0,True,Infotecdez importados USA
+2026-11-13,1085473,Asus Rog Xg Mobile RTX 5090 Thunderbolt,ASUS,29249,29249,0,True,Infotecdez importados USA
+2026-11-13,991786,Placa De Vídeo Asrock Amd Radeon Rx 9070 Xt Challenger 16gb Gddr6 256 Bits - 90-ga61zz-00uanf,ASRock,8928.1,8928.1,0,True,Importline Express
+2026-11-13,1086060,"Placa de Vídeo Zotac RTX 5070TI SOLID SFF OC NVIDIA Geforce, 16GB, GDDR7, 256BITS -  ZT-B50710J3-10A",Zotac,13888.88,12499.99,13888.88,True,KaBuM!
+2026-11-13,928110,"Placa De Vídeo Gigabyte Nvidia Geforce RTX 5060 Ti Eagle Oc Ice, 8GB, Gddr7, Dlss, Ray Tracing, Gv-n506teagleoc Ice-8gd",Gigabyte,7928.24,7928.24,0,True,TERABYTE
+2026-11-13,1078255,"Placa de Vídeo Gainward GeForce RTX 5080 Python III NVIDIA GeForce, 16GB, GDDR7, 256-bits, DLSS 4 - NE75080019T2-GB2035T",Gainward,18888.88,16999.99,18888.88,True,KaBuM!
+2026-11-13,1053107,Suporte Para Placa De Vídeo Gpu Foguete Com 5 Astronaltas (ajustavel 65mm X 105mm)(p),Outros,29.9,29.9,0,True,INFOTEC 3D
+2026-11-13,1022084,Placa De Video Afox Geforce Gtx 1050 Ti Atx Dual Fan 4gb GDDR5 128 Bits - Af1050ti-4096d5h5-v8,Afox,1318.51,1252.58,0,True,Cavuca
+2026-11-13,948384,"Placa De Video Brx Geforce Gt 610, 2gb, Ddr3, 64 Bits HDMI, Vga, Dvi",BRX,263.06,263.06,0,True,Rei Batuta Info
+2026-11-13,1032573,Placa De Vídeo Star 2gb Radeon R5-230 Ddr3 - R5-230-graphic,STAR,309.76,309.76,0,True,SGMAX TECNOLOGIA E COMERCIO
+2026-11-13,1091871,Placa De Video Winfox Gt610 2gb Ddr3 Gt610lp-2gd3,Generico,274.7,274.7,0,True,A.CIOLI
+2026-11-13,1091977,Placa De Vídeo Msi Geforce RTX 5080 Shadow 3x Oc 16gb Gddr7,MSI,25611.3,25611.3,0,True,VIXE E-COMMERCE
+2026-11-13,1091982,Placa De Vídeo Msi Geforce RTX 5070 Ti Shadow 3x Oc 16gb Gddr7,MSI,18648.63,18648.63,0,True,VIXE E-COMMERCE
+2026-11-13,1091978,Placa De Vídeo Msi Geforce RTX 5070 12gb Gddr7 Inspire 3x Oc,MSI,11570.13,11570.13,0,True,VIXE E-COMMERCE
+2026-11-13,1091979,Placa De Vídeo Gigabyte Geforce RTX 5070 12gb Windforce Oc Sff Preta,Gigabyte,12033.45,12033.45,0,True,VIXE E-COMMERCE
+2026-11-13,1091984,Placa De Vídeo Zotac Geforce RTX 5060 Ti 8GB Gddr7 Twin Edge Oc,Zotac,7181.46,7181.46,0,True,VIXE E-COMMERCE
+2026-11-13,1070458,Placa De Video Msi Geforce RTX 5070 Ventus 2x Oc Black 12gb Gddr7 192 Bits - 912-v532-269,MSI,6519,6127.86,0,True,LOGIN INFORMATICA
+2026-11-13,1078271,Placa de Vídeo Zotac RTX 5070 NVIDIA Geforce 12GB GAMING SOLID OC GDDR7 192BITS ZOTAC ZT-B50700J-10A,Zotac,8333.32,7499.99,8333.32,True,KaBuM!
+2026-11-13,1084522,Placa De Video Zotac Geforce RTX 5070 Solid Oc 12gb Gddr7 192bits Zt-b50700j-10a,Zotac,8184.83,7366.35,0,True,HD Store Oficial
+2026-11-13,1061643,"Placa De Vídeo Zotac Gaming Nvidia Geforce RTX 5060 Twin Edge Oc, 8GB, Gddr7, Dlss, Ray Tracing, Zt-b50600h-10a",Zotac,3854.99,3854.99,0,True,TERABYTE
+2026-11-13,1084883,"Placa De Vídeo Asus Amd Radeon Rx 9060 Xt Prime Oc, 16gb, Gddr6, Fsr, Ray Tracing, 90yv0lf1-mvna00",ASUS,5059.99,5059.99,0,True,TERABYTE
+2026-11-13,190108,"Placa de Vídeo Gainward NVIDIA GeForce GTX 1660 Super, 6GB GDDR6, 192 Bits, Dual FAN",Gainward,6990,5452.2,0,True,TENDINFO
+2026-11-13,207483,"Placa de Vídeo MSI NVIDIA GeForce GT710, 2GB, 64B, VGA, DVI, HDMI - GT-710-2-GD3-H-LP",MSI,430,387,0,True,BAURUINFO
+2026-11-13,213974,"Placa de Vídeo PNY NVIDIA GeForce Quadro RTX-4000, 8GB DDR6, 256 Bits, DP - VCQRTX4000-PB",Pny,6054.4,5448.96,0,True,SGMAX TECNOLOGIA E COMERCIO
