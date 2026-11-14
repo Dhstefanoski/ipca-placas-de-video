@@ -21,6 +21,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Rodar analise
         run: |
+          python src/coleta_oficial.py
           python src/hedonico.py
           python src/medianas.py
           python src/graficos.py
