@@ -1,45 +1,44 @@
 # O IPCA reflete o preço real pago por quem compra tecnologia?
 
-Trabalho da disciplina de Mineração de Dados, feito por Davi H. Stefanoski, Enon Demori T. M. e
-Leonardo C. Cherini.
+Trabalho da disciplina de Mineração de Dados, feito por Davi Stefanoski, Enon Demori e
+Leonardo Cherini.
 
-O IPCA aplica ajuste por qualidade aos bens de tecnologia. Se o produto novo entrega mais
-desempenho pelo mesmo valor, parte da variação deixa de contar como inflação. Quem compra,
-porém, paga o preço de etiqueta. A ideia aqui foi medir o tamanho dessa diferença, usando placas
-de vídeo como caso de estudo.
+O IPCA desconta a melhoria dos produtos de tecnologia. Se a placa nova rende mais pelo mesmo
+dinheiro, parte do aumento não entra na conta da inflação. Só que na loja ninguém paga em
+desempenho, paga o valor da etiqueta. Queríamos saber de quanto é essa distância.
 
-API publicada: https://ipca-placas-de-video.onrender.com/docs.
+API publicada: https://ipca-placas-de-video.onrender.com/docs
 
 ## O que encontramos
 
-De 2023 a 2026 o preço mediano da placa intermediária (RTX 3060, 4060, 5060 e equivalentes AMD)
-subiu 18,9%, de R$ 2.524 para R$ 3.000. No mesmo período o IPCA de computadores subiu 8,4% e o
-IPCA geral, 14,1%.
+De 2023 a 2026 a placa intermediária (RTX 3060, 4060, 5060 e as equivalentes da AMD) passou de
+R$ 2.524 para R$ 3.062, uma alta de 21,3%. O IPCA de computadores subiu 9,6% no mesmo intervalo,
+e o IPCA geral, 14,4%.
 
 ![Placa intermediária x IPCA](figuras/medianas_faixa.png)
 
-Sobre essa base treinamos dois modelos. Um estima o preço de um anúncio a partir das
-características da placa, e erra em média R$ 798, com R² de 0,868. O outro faz o caminho
-inverso: tenta descobrir a faixa de mercado olhando só o preço e os atributos técnicos, sem ver
-o nome do anúncio, e acerta 94% das vezes.
+Treinamos dois modelos em cima dessa base. Um tenta adivinhar o preço de um anúncio pelas
+características da placa e erra R$ 932 em média. O outro faz o contrário: recebe preço, memória
+e marca, não vê o nome do anúncio, e tenta dizer em que faixa a placa está. Acerta 93%.
 
-O segundo é mais interessante do que parece. Se o preço basta para reconstruir a faixa, é
-porque a classificação que adotamos corresponde a uma divisão real do mercado, e não a um
-rótulo que inventamos. E onde ele erra, aponta placas cuja posição no catálogo não combina com
-o preço praticado, como a RTX 5050 sendo vendida a valor de intermediária.
+Esse segundo foi o que rendeu mais. Se dá para reconstruir a faixa só pelo preço, a divisão que
+usamos não é invenção nossa, tem lastro no mercado. E quando ele erra, costuma estar certo do
+jeito dele: a GTX 1060, que no papel é intermediária, sai hoje a preço de entrada porque é de
+uma geração que já acabou.
 
-Os números completos, as variantes de método e as limitações estão no [RELATORIO.md](RELATORIO.md).
+O resto dos números, as variantes de método e o que não funcionou estão no
+[RELATORIO.md](RELATORIO.md).
 
 ## De onde vêm os dados
 
 | Fonte | O que traz | Tamanho |
 |---|---|---|
 | Kabum, via Internet Archive | Histórico de preços da página de placas de vídeo | 2.160 preços, 84 capturas, 43 meses |
-| Kabum, coleta diária | Preços correntes, desde 13/09/2026 | 15.147 preços, 36 dias |
-| IBGE / SIDRA, tabela 7060 | IPCA geral e subitem "Computador pessoal" | 54 meses |
-| Banco Central, SGS série 1 | Dólar PTAX diário | 1.139 cotações |
+| Kabum, coleta diária | Preços correntes, desde 13/09/2026 | 26.884 preços, 62 dias |
+| IBGE / SIDRA, tabela 7060 | IPCA geral e subitem "Computador pessoal" | 56 meses |
+| Banco Central, SGS série 1 | Dólar PTAX diário | 1.182 cotações |
 
-Depois da limpeza sobram 2.925 anúncios com chip identificado, em 70 modelos distintos.
+Passada a limpeza, sobram 3.406 anúncios com chip identificado, de 71 modelos diferentes.
 
 ## Estrutura
 
@@ -79,14 +78,15 @@ uvicorn src.api:app --reload    # API em http://127.0.0.1:8000/docs
 
 ## Automação
 
-A coleta diária roda quatro vezes por dia no GitHub Actions e grava os preços daquele dia. A
-análise semanal roda toda segunda, refaz tudo e versiona gráficos e resultados. As duas comitam
-no próprio repositório, então a base cresce sozinha. Para publicar a API, ver [DEPLOY.md](DEPLOY.md).
+A coleta roda quatro vezes por dia no GitHub Actions e guarda os preços do dia. Toda segunda a
+análise inteira roda de novo e atualiza gráficos e resultados. As duas comitam aqui no
+repositório, então a base cresce sem ninguém mexer. Para publicar a API, ver
+[DEPLOY.md](DEPLOY.md).
 
 ## Limitações
 
-Os dados vêm de uma loja só, a Kabum, porque Terabyte e Pichau bloqueiam a coleta. Não existem
-capturas de fevereiro a maio de 2023, e o dia 20/09/2026 ficou sem dado por um bloqueio
-temporário. Apenas a faixa intermediária reúne anúncios suficientes em todos os anos. E o
-subitem do IPCA cobre computadores completos, não placas de vídeo isoladas, de modo que a
-comparação é de tendência e não de valor exato.
+Tudo vem de uma loja só, a Kabum, porque Terabyte e Pichau bloqueiam a coleta. Faltam capturas
+de fevereiro a maio de 2023, e o dia 20/09/2026 ficou vazio por um bloqueio temporário. Só a
+faixa intermediária tem anúncio suficiente em todos os anos. E o subitem do IPCA que usamos
+cobre computadores inteiros, não placas de vídeo, então a comparação vale pela tendência, não
+pelo valor exato.

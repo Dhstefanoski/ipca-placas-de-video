@@ -1,5 +1,5 @@
 """Coleta IPCA (IBGE/SIDRA) e dolar PTAX (Banco Central)."""
-import json, gzip, csv, os, time, urllib.request
+import json, gzip, csv, datetime, os, time, urllib.request
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def cam(*p): return os.path.join(RAIZ, *p)
@@ -11,7 +11,7 @@ SERIES = {
     "tv_som_info": "7541",
     "computador":  "47641",
 }
-INICIO, FIM = "202203", "202608"
+INICIO, FIM = "202203", datetime.date.today().strftime("%Y%m")
 
 
 def baixa(url, tentativas=4, timeout=90):
@@ -55,7 +55,8 @@ def ipca():
 
 def dolar():
     url = ("https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json"
-           "&dataInicial=01/03/2022&dataFinal=30/09/2026")
+           "&dataInicial=01/03/2022"
+           f"&dataFinal={datetime.date.today().strftime('%d/%m/%Y')}")
     dados = json.loads(baixa(url).decode("utf-8", "replace"))
     saida = [{"data": d["data"], "cotacao": float(d["valor"])} for d in dados]
     with open(cam("dados", "dolar.csv"), "w", newline="", encoding="utf-8") as f:
