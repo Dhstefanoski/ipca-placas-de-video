@@ -1,6 +1,6 @@
 modelo,mae_cv_log,mae_teste,rmse_teste,mape_teste,r2_teste
-Gradient Boosting + chip,0.1925,931.19,2048.01,25.4,0.849
-Gradient Boosting,0.2014,968.34,2033.11,28.3,0.852
-Random Forest,0.2094,1094.15,2703.62,27.6,0.737
-Regressão Ridge,0.3227,1591.99,2683.87,34.7,0.741
-Média (linha de base),0.426,3314.56,5779.35,101.4,-0.2
+Gradient Boosting + chip,0.1925,969.36,2236.56,25.4,0.84
+Gradient Boosting,0.2014,1007.39,2228.02,28.3,0.842
+Random Forest,0.2094,1149.53,2946.88,27.6,0.723
+Regressão Ridge,0.3227,1620.99,2767.97,34.7,0.755
+Média (linha de base),0.426,3407.8,6113.12,101.2,-0.193
